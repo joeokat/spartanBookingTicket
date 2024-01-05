@@ -15,7 +15,8 @@
 <style>
   .notificationArea {
     display: flex;
-    margin-top: 65px;
+    padding-top: 65px;
+    padding-bottom: 32px;
   }
   .profile {
     display: flex;

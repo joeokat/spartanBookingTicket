@@ -30,6 +30,7 @@
     width: 100%;
     height: 990px;
     border-radius: 0 0 60px 60px;
-    
+    position: absolute;
+    padding: 0 26px;
   }
 </style>
