@@ -28,7 +28,7 @@
     max-height: 100vh;
     background-color: var(--black);
     width: 100%;
-    height: 90%;
+    height: 990px;
     border-radius: 0 0 60px 60px;
     
   }
