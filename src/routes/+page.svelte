@@ -10,7 +10,7 @@
   <NotificationArea />
   <SpartanPlus />
   <TicketSystem />
-  <TermsCondition />  
+  <!-- <TermsCondition />   -->
 </main>
 
 
@@ -25,9 +25,7 @@
     --gray: #D6D5D5;
     --dottedLine: #696969;
   }
-  .appWrapper {
-    width: inherit;
-
+  .appWrapper {   
     border-radius: 0 0 60px 60px;
     padding: 0 26px;
     background-color: var(--black);
