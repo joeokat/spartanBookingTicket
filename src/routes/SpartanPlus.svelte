@@ -68,6 +68,7 @@
 
   .see-days {
     display: flex;
+    align-items: center;
     justify-content: space-between;
     padding-top: 40px;
     padding-bottom: 24px;
@@ -81,5 +82,6 @@
     font-size: 14px;
     font-weight: bold;
     color: var(--white);
+    text-decoration: none;
 }
 </style>
