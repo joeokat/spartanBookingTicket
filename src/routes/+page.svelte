@@ -10,8 +10,9 @@
   <NotificationArea />
   <SpartanPlus />
   <TicketSystem />
-  <TermsCondition />
+  <TermsCondition />  
 </main>
+
 
 <style>
   :root {
@@ -25,12 +26,11 @@
     --dottedLine: #696969;
   }
   .appWrapper {
-    max-height: 100vh;
-    background-color: var(--black);
-    width: 100%;
-    height: 990px;
+    width: inherit;
+
     border-radius: 0 0 60px 60px;
-    position: absolute;
     padding: 0 26px;
+    background-color: var(--black);
+    position: absolute;
   }
 </style>
