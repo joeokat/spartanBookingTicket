@@ -1,5 +1,9 @@
 <script>
   let src = "/dp.png";
+
+  function handleButton() {
+    alert('Stay calm! VIP will be right back.')
+  }
 </script>
 
 <nav>
@@ -11,12 +15,14 @@
         <small>Booking Tickets</small>
       </div>
     </div>
+
     <div class="see-days">
       <p>Day 9 of 365 ¼</p>
       <small>January 2024 Tickets</small>
     </div>
   </div>
-    <button>Spartan +</button>
+
+    <button on:click={handleButton}>Spartan +</button>
 </nav>
 
 
@@ -76,4 +82,13 @@
     background-color: var(--lemonGreen);
     color: var(--black);
   }
+
+@media screen and (max-width: 600px) {
+
+nav {
+  margin: 0;
+  display: none;
+  
+}
+}
 </style>

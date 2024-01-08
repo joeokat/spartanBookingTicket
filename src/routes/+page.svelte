@@ -11,7 +11,7 @@
     <SpartanPlus />
     <TicketSystem />
   </div>
-  <TermsOfUse />
+  <!-- <TermsOfUse /> -->
 </main>
 
 <style>
