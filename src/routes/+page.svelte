@@ -3,18 +3,16 @@
   import SpartanPlus from "./SpartanPlus.svelte";
   import TermsOfUse from "./TermsOfUse.svelte";
   import TicketSystem from "./TicketSystem.svelte";
-
 </script>
 
-<main class="appWrapper">
-  <div class="appContainer">
+<main>
   <NotificationArea />
-  <SpartanPlus />
-  <TicketSystem />
-  <TermsOfUse />  
+  <div class="section">
+    <SpartanPlus />
+    <TicketSystem />
   </div>
+  <TermsOfUse />
 </main>
-
 
 <style>
   :root {
@@ -27,15 +25,11 @@
     --gray: #D6D5D5;
     --dottedLine: #696969;
   }
-  .appWrapper {   
-    max-width: 1440px;
-    border-radius: 0 0 60px 60px;
-    padding: 0 26px;
-    background-color: var(--black);
-    margin-bottom: 33px;
-  }
-  .appContainer {
-    max-width: 398px;
-    margin: 0 auto;
+  .section {   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 100px;
   }
 </style>

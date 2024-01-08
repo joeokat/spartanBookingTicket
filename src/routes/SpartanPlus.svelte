@@ -15,11 +15,6 @@
   </div>
 </div>
 
-<div class="see-days">
-  <p>Day 9 of 365</p>
-  <a href="/">See All</a>
-</div>
-
 <style>
   .spartanPlus {
     background-color: var(--lemonGreen);
@@ -65,23 +60,4 @@
     color: var(--lemonGreen);
     background-color: var(--black);
   }
-
-  .see-days {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 40px;
-    padding-bottom: 24px;
-  }
-  .see-days p {
-    font-size: 22px;
-    font-weight: 500;
-    color: var(--lemonGreen);
-  }
-  .see-days a {
-    font-size: 14px;
-    font-weight: bold;
-    color: var(--white);
-    text-decoration: none;
-}
 </style>
