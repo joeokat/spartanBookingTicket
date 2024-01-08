@@ -1,7 +1,3 @@
-
- 
- <button class="terms">Terms and Conditions</button>
- 
 <div>
   <h3>Terms of Use | Privacy</h3>
   <p>1.1 <span>App Use</span>: By using this prediction app (“Spartan Booking Ticket”), users (“User”) agree to adhere to all terms and conditions, privacy policies, and usage guidelines of the App.</p>
@@ -18,28 +14,5 @@
 
   <p>1.7 <span>Severability</span>: If any provision of this Policy is held to be invalid, unlawful, or unenforceable, the remaining provisions of this Policy will not be affected and will continue in full force and effect.</p>
 
-  <!-- <p>1.8 <span>Contact Us</span>: If you have any questions or concerns about this Policy, please contact the App's customer support team at 0245405880.</p> -->
+  <p>1.8 <span>Contact Us</span>: If you have any questions or concerns about this Policy, please contact the App's customer support team at 0245405880.</p>
 </div>
-
-<style>
-  button {
-    
-
-    position: fixed;
-    left: 0;
-    right: 0;
-    bottom: 15px;
-
-    font-size: 12px;
-    font-weight: 500;
-
-    width: 200px;
-    border: 0;
-    border-radius: 30px;
-    text-align: center;
-    
-    color: var(--orange); 
-    background-color: var(--orange);
-  }
-  
-</style>

@@ -1,16 +1,18 @@
 <script>
   import NotificationArea from "./NotificationArea.svelte";
   import SpartanPlus from "./SpartanPlus.svelte";
-  import TermsCondition from "./TermsCondition.svelte";
+  import TermsOfUse from "./TermsOfUse.svelte";
   import TicketSystem from "./TicketSystem.svelte";
 
 </script>
 
 <main class="appWrapper">
+  <div class="appContainer">
   <NotificationArea />
   <SpartanPlus />
   <TicketSystem />
-  <!-- <TermsCondition />   -->
+  <TermsOfUse />  
+  </div>
 </main>
 
 
@@ -26,9 +28,14 @@
     --dottedLine: #696969;
   }
   .appWrapper {   
+    max-width: 1440px;
     border-radius: 0 0 60px 60px;
     padding: 0 26px;
     background-color: var(--black);
-    position: absolute;
+    margin-bottom: 33px;
+  }
+  .appContainer {
+    max-width: 398px;
+    margin: 0 auto;
   }
 </style>
