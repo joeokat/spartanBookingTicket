@@ -38,6 +38,7 @@
   }
 .ticket-price {
   display: flex;
+  gap: 10px;
   flex-direction: column;
   position: absolute;
   top: 32px;
@@ -47,6 +48,7 @@
   font-size: 14px;
 }
 .ticket-price p {
+  margin: 0;
   font-size: 27px;
   font-weight: bold;
 }
@@ -60,6 +62,10 @@
     background-color: var(--black);
   }
   .barcode {
-    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
   }
 </style>
