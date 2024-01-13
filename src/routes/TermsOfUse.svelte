@@ -1,9 +1,9 @@
 <script>
-  import TermsAndCondition from "./TermsAndConditions.svelte"
-  </script>
+ 
+ </script>
 
  <footer>
-  <a href="/TermsAndConditions" class="terms">Free 3+ Odds 4eva | Terms of Use</a>
+  <a href="/TermsAndConditions" class="terms">Privacy</a>
  </footer>
  
 <style>
