@@ -7,11 +7,11 @@
 
 <main>
   <NotificationArea />
-  <div class="section">
+  <div class="sectionY">
     <SpartanPlus />
     <TicketSystem />
   </div>
-  <!-- <TermsOfUse /> -->
+  <TermsOfUse />
 </main>
 
 <style>
@@ -25,7 +25,7 @@
     --gray: #D6D5D5;
     --dottedLine: #696969;
   }
-  .section {   
+  .sectionY {   
     display: flex;
     flex-direction: column;
     align-items: center;
