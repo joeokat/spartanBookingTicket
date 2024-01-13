@@ -1,21 +1,21 @@
 <script>
-  import NotificationArea from "./NotificationArea.svelte";
+  import Nav from "./Nav.svelte";
   import SpartanPlus from "./SpartanPlus.svelte";
-  import TermsOfUse from "./TermsOfUse.svelte";
-  import TicketSystem from "./TicketSystem.svelte";
+  import Terms from "./Terms.svelte";
+  import Ticket from "./Ticket.svelte";
 </script>
 
 <main>
-  <NotificationArea />
+  <Nav />
   <div class="sectionY">
     <SpartanPlus />
-    <TicketSystem />
+    <Ticket />
   </div>
-  <TermsOfUse />
+  <Terms />
 </main>
 
 <style>
-  :root {
+:root {
     --black: #101010;
     --white: #fafafa;
     --green: #AFE67E;
@@ -24,12 +24,18 @@
     --darkGray: #737373;
     --gray: #D6D5D5;
     --dottedLine: #696969;
-  }
-  .sectionY {   
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 2rem;
-    padding: 0 100px;
-  }
+}
+/* .sectionX {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 0 100px;
+} */
+.sectionY {   
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  padding: 0 100px;
+}
 </style>

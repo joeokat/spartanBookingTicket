@@ -2,7 +2,7 @@
   const src = '/barCodeImg.png'
 </script>
 
-<div class="section">
+<div class="sectionY">
 <div class="ticket-card">
 
   <div class="hot-ticket">
@@ -33,7 +33,7 @@
   <div class="barcode">
     <p>SportyBet</p>
     <div class="winning-ticket">
-      <!-- <img {src} alt=""> -->
+      <img {src} alt="">
       <h1>19964FB</h1>
     </div>
   </div>
@@ -52,15 +52,15 @@
     flex-direction: column;
     display: flex;
     position: relative;
-  }
-  .hot-ticket {
+}
+.hot-ticket {
     display: flex;
     align-items: first baseline;
     justify-content: space-between;
     margin-top: 24px;
     padding-bottom: 15px;
     padding: 0 24px;
-  }
+}
 .ticket-price {
   display: flex;
   gap: 10px;
@@ -76,14 +76,14 @@
   font-size: 27px;
   font-weight: bold;
 }
-  .ticket-card .label {
+.ticket-card .label {
     right: 24px;
     top: 24px;
     padding: 4px 10px;
     border-radius: 24px;
     color: var(--white);
     background-color: var(--black);
-  }
+}
 .odds {
   display: flex;
   align-items: center;
@@ -108,19 +108,19 @@
   gap: 10px;
   text-align: right;
 }
-  .barcode {
+.barcode {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     /* padding-top: 30px; */
     padding-bottom: 22px;
-  }
-.bookingCode {
+}
+.winning-ticket h1{
   display: block;
   margin: 0 auto;
   left: 0; 
-   right: 0;
+  right: 0;
   bottom: 50px;
   position: absolute;
 }
