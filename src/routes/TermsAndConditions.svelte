@@ -1,4 +1,8 @@
-<div class="section">
+<script>
+  //
+</script>
+
+<div class="sectionY">
   <h3>Terms of Use | Privacy</h3>
   <p>1.1 <span>App Use</span>: By using this prediction app (“Spartan Booking Ticket”), users (“User”) agree to adhere to all terms and conditions, privacy policies, and usage guidelines of the App.</p>
 
