@@ -79,6 +79,7 @@
     font-weight: 600;
     display: flex;
     align-items: center;
+    cursor: pointer;
     background-color: var(--lemonGreen);
     color: var(--black);
   }
