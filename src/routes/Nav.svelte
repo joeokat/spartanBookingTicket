@@ -84,12 +84,11 @@
     color: var(--black);
   }
 
-@media screen and (max-width: 600px) {
-
-nav {
+@media only screen and (max-width: 767px) {
+nav .profile, button {
   margin: 0;
   display: none;
-  
 }
+
 }
 </style>
