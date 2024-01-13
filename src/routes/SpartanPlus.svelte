@@ -25,7 +25,6 @@
     height: 262px;
     width: 398px;
     border-radius: 20px;
-    margin-top: 40px;
     position: relative;
   }
   .container {
