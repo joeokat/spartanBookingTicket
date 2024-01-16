@@ -23,7 +23,7 @@
 
     <div class="number-ofBet">
       <small>Outcome</small>
-      <p>3</p>
+      <p>5</p>
     </div>
 
     <div class="total-odds">
@@ -36,8 +36,9 @@
     <p>Tap barcode to display VIP ODDS</p>
     <div class="winning-ticket">
 	  {#if !show}
-        <img {src} alt="" on:click={() => show = true}>
+      <img {src} alt="" on:click={() => show = true}>
 	  {/if}
+
 	  {#if show}
       <h3 class="vipOdds">VIP Odds: 566D27D</h3>
 	  {/if}
@@ -48,8 +49,6 @@
 </div>
 
 <style>
- 
-
 .ticket-card {
   background-color: var(--white);
   width: 398px;
@@ -119,17 +118,15 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  /* padding-top: 30px; */
-   padding-bottom: 22px;
+  /* padding-bottom: 22px; */
 }
-.barcode .winning-ticket {
+.winning-ticket {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 }
-.winning-ticket h1{
+.vipOdds, .freeOdds {
   display: block;
   margin: 0 auto;
-
 }
 </style>
