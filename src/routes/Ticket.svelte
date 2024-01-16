@@ -7,20 +7,20 @@
 
   <div class="hot-ticket">
     <div class="ticket-price">
-      <small> Ticket Price</small>
-      <p>$ 0</p>
+      <small>Ticket Price</small>
+      <p>$ 2</p>
     </div>
     <div class="label">Hot 🔥</div>
   </div>
 
   <div class="odds">
     <div class="date">
-      <small> Date</small>
+      <small>Date</small>
       <p>Tue, Jan 09</p>
     </div>
 
     <div class="number-ofBet">
-      <small> Number of Bet</small>
+      <small>Outcome</small>
       <p>3</p>
     </div>
 
