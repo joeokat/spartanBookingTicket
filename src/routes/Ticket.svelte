@@ -48,21 +48,21 @@
  
 
 .ticket-card {
-    background-color: var(--white);
-    width: 398px;
-    border-radius: 33px;
-    margin-bottom: 14px;
-    flex-direction: column;
-    display: flex;
-    position: relative;
+  background-color: var(--white);
+  width: 398px;
+  border-radius: 33px;
+  margin-bottom: 14px;
+  flex-direction: column;
+  display: flex;
+  position: relative;
 }
 .hot-ticket {
-    display: flex;
-    align-items: first baseline;
-    justify-content: space-between;
-    margin-top: 24px;
-    padding-bottom: 15px;
-    padding: 0 24px;
+  display: flex;
+  align-items: first baseline;
+  justify-content: space-between;
+  margin-top: 24px;
+  padding-bottom: 15px;
+  padding: 0 24px;
 }
 .ticket-price {
   display: flex;
@@ -80,12 +80,12 @@
   font-weight: bold;
 }
 .ticket-card .label {
-    right: 24px;
-    top: 24px;
-    padding: 4px 10px;
-    border-radius: 24px;
-    color: var(--white);
-    background-color: var(--black);
+  right: 24px;
+  top: 24px;
+  padding: 4px 10px;
+  border-radius: 24px;
+  color: var(--white);
+  background-color: var(--black);
 }
 .odds {
   display: flex;
@@ -112,12 +112,12 @@
   text-align: right;
 }
 .barcode {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    /* padding-top: 30px; */
-    padding-bottom: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* padding-top: 30px; */
+   padding-bottom: 22px;
 }
 .barcode .winning-ticket {
 	display: flex;
