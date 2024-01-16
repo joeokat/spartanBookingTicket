@@ -35,7 +35,9 @@
   <div class="barcode">
     <p>Tap Barcode to Show VIP ticket</p>
     <div class="winning-ticket">
-      <img {src} alt="" on:click={() => show = !show}>
+	  {#if !show}
+        <img {src} alt="" on:click={() => show = true}>
+	  {/if}
 	  {#if show}
       <h3>VIP Odd: 566D27D</h3>
 	  {/if}
