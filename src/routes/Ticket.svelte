@@ -28,20 +28,20 @@
 
     <div class="total-odds">
       <small> Total Odds</small>
-      <p>2.00</p>
+      <p>2.34</p>
     </div>
   </div>
 
   <div class="barcode">
-    <p>Tap Barcode to Show VIP ticket</p>
+    <p>Tap barcode to display VIP ODDS</p>
     <div class="winning-ticket">
 	  {#if !show}
         <img {src} alt="" on:click={() => show = true}>
 	  {/if}
 	  {#if show}
-      <h3>VIP Odd: 566D27D</h3>
+      <h3 class="vipOdds">VIP Odds: 566D27D</h3>
 	  {/if}
-    <p>Free Odd: BE8396B9</p>
+    <p class="freeOdds">Free Odds: BE8396B9</p>
     </div>
   </div>
 </div>
