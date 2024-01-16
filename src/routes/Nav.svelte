@@ -4,6 +4,13 @@
   function handleButton() {
     alert('Stay calm! VIP will be right back.')
   }
+
+  function getDate() {
+	const currentDate = new Date();
+	const startOfYear = new Date(currentDate.getFullYear(), 0, 0);
+  	const diff = currentDate - startOfYear;
+  	return `Day ${Math.floor(diff / (24 * 60 * 60 * 1000))} of 365¼`;
+  }
 </script>
 
 <nav>
@@ -17,7 +24,7 @@
     </div>
 
     <div class="see-days">
-      <p>Day 9 of 365 ¼</p>
+      <p>{getDate()}</p>
       <small>January 2024 Tickets</small>
     </div>
   </div>
