@@ -16,12 +16,12 @@
   span a {
     font-size: 14px;
     font-weight: 500;
-    color: var(--white); 
+    color: var(--green); 
     background-color: var(--black);
     text-decoration: none;
     padding-left: 4px;
   }
   span a:hover {
-    color: var(--green);
+    color: var(--white);
   }
 </style>

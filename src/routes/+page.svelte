@@ -21,6 +21,7 @@
     --green: #AFE67E;
     --lemonGreen: #E7F161;
     --orange: #F2B449;
+    --red: #DF011F
     --darkGray: #737373;
     --gray: #D6D5D5;
     --dottedLine: #696969;
