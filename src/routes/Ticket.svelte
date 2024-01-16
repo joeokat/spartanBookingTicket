@@ -35,7 +35,9 @@
   <div class="barcode">
     <p>Tap Barcode to Show VIP ticket</p>
     <div class="winning-ticket">
-      <img {src} alt="" on:click={() => show = !show}>
+	  {#if !show}
+        <img {src} alt="" on:click={() => show = true}>
+	  {/if}
 	  {#if show}
 	  	<h1>BE8396B9</h1>
 	  {/if}
