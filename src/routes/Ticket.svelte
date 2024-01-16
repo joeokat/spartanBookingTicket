@@ -1,5 +1,7 @@
 <script>
   const src = '/barCodeImg.png'
+
+  let show = false
 </script>
 
 <div class="sectionY">
@@ -33,8 +35,10 @@
   <div class="barcode">
     <p>SportyBet</p>
     <div class="winning-ticket">
-      <img {src} alt="">
-      <h1>BE8396B9</h1>
+      <img {src} alt="" on:click={() => show = !show}>
+	  {#if show}
+	  	<h1>BE8396B9</h1>
+	  {/if}
     </div>
   </div>
 </div>
@@ -46,7 +50,6 @@
 .ticket-card {
     background-color: var(--white);
     width: 398px;
-    height: 398px;
     border-radius: 33px;
     margin-bottom: 14px;
     flex-direction: column;
@@ -116,12 +119,14 @@
     /* padding-top: 30px; */
     padding-bottom: 22px;
 }
+.barcode .winning-ticket {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
 .winning-ticket h1{
   display: block;
   margin: 0 auto;
-  left: 0; 
-  right: 0;
-  bottom: 50px;
-  position: absolute;
+
 }
 </style>
