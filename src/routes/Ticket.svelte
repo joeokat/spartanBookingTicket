@@ -37,8 +37,9 @@
     <div class="winning-ticket">
       <img {src} alt="" on:click={() => show = !show}>
 	  {#if show}
-	  	<h1>BE8396B9</h1>
+      <h3>VIP Odd: 566D27D</h3>
 	  {/if}
+    <p>Free Odd: BE8396B9</p>
     </div>
   </div>
 </div>
