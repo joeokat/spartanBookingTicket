@@ -34,7 +34,7 @@
     <p>SportyBet</p>
     <div class="winning-ticket">
       <img {src} alt="">
-      <h1>19964FB</h1>
+      <h1>BE8396B9</h1>
     </div>
   </div>
 </div>
