@@ -10,7 +10,7 @@
   <div class="hot-ticket">
     <div class="ticket-price">
       <small>Ticket Price</small>
-      <p>$ 2</p>
+      <p>$ 0</p>
     </div>
     <div class="label">Hot 🔥</div>
   </div>
@@ -33,16 +33,16 @@
   </div>
 
   <div class="barcode">
-    <p>Tap barcode to display VIP ODDS</p>
+    <p>Tap to display VIP ODDS</p>
     <div class="winning-ticket">
 	  {#if !show}
       <img {src} alt="" on:click={() => show = true}>
 	  {/if}
 
 	  {#if show}
-      <h3 class="vipOdds">VIP Odds: 566D27D</h3>
+      <h3 class="vipOdds">VIP Odd: 566D27D</h3>
 	  {/if}
-    <p class="freeOdds">Free Odds: BE8396B9</p>
+    <p class="freeOdds"><strong>Free Odd:</strong> BE8396B9</p>
     </div>
   </div>
 </div>
@@ -118,7 +118,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  /* padding-bottom: 22px; */
+  padding-bottom: 22px;
 }
 .winning-ticket {
 	display: flex;
