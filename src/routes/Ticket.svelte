@@ -10,7 +10,7 @@
   <div class="hot-ticket">
     <div class="ticket-price">
       <small>Ticket Price</small>
-      <p>$ 0</p>
+      <p>Free for 30 days</p>
     </div>
     <div class="label">Hot 🔥</div>
   </div>
@@ -128,5 +128,6 @@
 .vipOdds, .freeOdds {
   display: block;
   margin: 0 auto;
+
 }
 </style>
