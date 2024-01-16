@@ -33,7 +33,7 @@
   </div>
 
   <div class="barcode">
-    <p>SportyBet</p>
+    <p>Tap Barcode to Show VIP ticket</p>
     <div class="winning-ticket">
       <img {src} alt="" on:click={() => show = !show}>
 	  {#if show}
