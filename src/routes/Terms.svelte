@@ -1,9 +1,7 @@
-<script>
-  // import { Link } from 'svelte-kit';
-</script>
 
- <footer class="terms">
-  <!-- <a href="/Terms">Terms and Privacy</a> -->
+
+ <footer>
+  <a href="/privacy" class="terms">Terms and Privacy</a>
  </footer>
  
 <style>

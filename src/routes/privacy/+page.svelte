@@ -19,6 +19,7 @@
   <p>1.7 <span>Severability</span>: If any provision of this Policy is held to be invalid, unlawful, or unenforceable, the remaining provisions of this Policy will not be affected and will continue in full force and effect.</p>
 
   <!-- <p>1.8 <span>Contact Us</span>: If you have any questions or concerns about this Policy, please contact the App's customer support team at 0245405880.</p> -->
+  <a href="/">Return Home</a>
 </div>
 
 <style>
