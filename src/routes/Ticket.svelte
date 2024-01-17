@@ -40,7 +40,7 @@
 	  {/if}
 
 	  {#if show}
-      <h3 class="vipOdds">VIP Odd: ########</h3>
+      <h3 class="vipOdds">30 Odd: 96CE14D</h3>
 	  {/if}
     <p class="freeOdds"><strong>Free Odd:</strong> BE8396B9</p>
     </div>
