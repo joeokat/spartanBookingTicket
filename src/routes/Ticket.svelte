@@ -2,6 +2,11 @@
   const src = '/barCodeImg.png'
 
   let show = false
+
+  function getDate() {
+	const curDate = new Date()
+	return curDate.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' })
+  }
 </script>
 
 <div class="sectionY">
@@ -18,7 +23,7 @@
   <div class="odds">
     <div class="date">
       <small>Date</small>
-      <p>Wed, Jan 17</p>
+      <p>{getDate()}</p>
     </div>
 
     <div class="number-ofBet">
