@@ -1,0 +1,23 @@
+@use '../abstracts' as a;
+
+.terms {
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: a.color(white);
+	background-color: a.color(black);
+
+	span a {
+		font-size: 14px;
+		font-weight: 500;
+		color: a.color(green);
+		background-color: a.color(black);
+		text-decoration: none;
+		padding-left: 4px;
+
+		&:hover {
+			color: a.color(white);
+		}
+	}
+}

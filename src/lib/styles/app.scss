@@ -1,0 +1,12 @@
+// reset
+@use 'base/reset';
+//components
+@use 'components/nav';
+@use 'components/spartanplus';
+@use 'components/ticket';
+@use 'components/terms';
+// layout
+@use 'layout/home';
+@use 'layout/privacy';
+// media queries
+@use 'base/media-queries';
