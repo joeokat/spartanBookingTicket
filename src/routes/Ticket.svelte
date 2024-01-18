@@ -15,7 +15,7 @@
   <div class="hot-ticket">
     <div class="ticket-price">
       <small>Ticket Price</small>
-      <p>Free for 29 days</p>
+      <p>Free for 12 days</p>
     </div>
     <div class="label">Hot 🔥</div>
   </div>
@@ -45,9 +45,9 @@
 	  {/if}
 
 	  {#if show}
-      <h3 class="vipOdds">30 Odd: 96CE14D</h3>
+      <h3 class="vipOdds">Recovery: BE8396B9</h3>
 	  {/if}
-    <p class="freeOdds"><strong>Free Odd:</strong> BE8396B9</p>
+    <p class="freeOdds"><strong>Free Odd:</strong> ########</p>
     </div>
   </div>
 </div>
