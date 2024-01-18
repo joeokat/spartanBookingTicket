@@ -17,24 +17,3 @@
   <p><span>Contact Us</span>: If you have any questions or concerns about this Policy, please contact the App's customer support team at fleetlabs@yahoo.com.</p>
   <a href="/">Return Home</a>
 </div>
-
-<style>
-.privacy {
-  padding: 30px 40px;
-  color: var(--white);
-  font-size: 16px;
-}
-span {
-  font-family: monospace;
-  color: var(--green);
-}
-
-a {
-  font-weight: 500;
-  padding: 8px 16px;
-  color: var(--black);
-  background-color: var(--lemonGreen);
-  text-decoration: none;
-  border-radius: 30px;
-}
-</style>

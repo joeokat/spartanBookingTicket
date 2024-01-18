@@ -1,0 +1,54 @@
+@use '../abstracts' as a;
+
+.spartanPlus {
+	background-color: a.color(lemonGreen);
+	height: 262px;
+	width: 398px;
+	border-radius: 20px;
+	position: relative;
+
+	.container {
+		background-image: a.color(lemonGreen);
+		height: 100%;
+		width: 100%;
+		border-radius: inherit;
+		overflow: hidden;
+
+		.sportyPlayer {
+			left: 0;
+			bottom: 0;
+			position: absolute;
+		}
+
+		.spartanVIP {
+			display: flex;
+			flex-direction: column;
+			width: 195px;
+			;
+			top: 55px;
+			right: 16px;
+			position: absolute;
+
+			div {
+				font-size: 1.6rem;
+				font-weight: 600;
+				color: a.color(black);
+			}
+
+			button {
+				/* margin: 0; */
+				border: 0;
+				height: 50px;
+				padding: 14px 55px;
+				border-radius: 2.6rem;
+				font-size: 1rem;
+				font-weight: 500;
+				display: flex;
+				align-items: center;
+				cursor: pointer;
+				color: a.color(lemonGreen);
+				background-color: a.color(black);
+			}
+		}
+	}
+}

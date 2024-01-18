@@ -1,0 +1,22 @@
+@use '../abstracts' as a;
+
+@media only screen and (max-width: a.$breakpoint-mp) {
+
+	nav .rollover .profile,
+	nav button {
+		margin: 0;
+		display: none;
+	}
+
+	.sectionY {
+		padding: 0 15px;
+	}
+
+	.spartanPlus {
+		width: 100%;
+	}
+
+	.ticket-card {
+		width: 100%;
+	}
+}

@@ -1,0 +1,59 @@
+@use '../abstracts' as a;
+
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 30px 80px;
+
+	.rollover {
+		display: flex;
+		align-items: center;
+		gap: 30px;
+
+		small {
+			font-size: 14px;
+			color: a.color(gray);
+		}
+
+		.profile {
+			display: flex;
+			align-items: center;
+			gap: 15px;
+
+			.greeting {
+				display: flex;
+				flex-direction: column;
+				margin: 0;
+
+				p {
+					font-size: 1.2rem;
+					font-weight: 500;
+					margin: 0;
+					color: a.color(white);
+				}
+			}
+		}
+
+		.see-days p {
+			font-size: 22px;
+			font-weight: 500;
+			margin: 0;
+			color: a.color(lemonGreen);
+		}
+	}
+
+	button {
+		border: 0;
+		height: 50px;
+		padding: 14px 55px;
+		border-radius: 2.6rem;
+		font-size: 1rem;
+		font-weight: 600;
+		display: flex;
+		align-items: center;
+		cursor: pointer;
+		background-color: a.color(lemonGreen);
+		color: a.color(black);
+	}
+}
