@@ -1,21 +1,30 @@
 @use '../abstracts' as a;
 
-.privacy {
-	padding: 30px 40px;
-	color: var(--white);
-	font-size: 16px;
+.term {
 
-	span {
-		font-family: monospace;
-		color: var(--green);
-	  }
-	  
-	  a {
+	a {
 		font-weight: 500;
 		padding: 8px 16px;
+		margin-left: 100px;
 		color: var(--black);
 		background-color: var(--lemonGreen);
 		text-decoration: none;
 		border-radius: 30px;
-	  }
-  }
+	}	
+}
+
+.privacy {
+	
+	color: var(--white);
+	font-size: 16px;
+
+	div {
+		margin: 1rem 0;
+
+		h3 {
+			font-family: monospace;
+			color: var(--green);
+		}
+	}
+}
+

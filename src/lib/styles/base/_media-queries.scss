@@ -2,7 +2,11 @@
 
 @media only screen and (max-width: a.$breakpoint-mp) {
 
-	nav .rollover .profile,
+	nav {
+		padding: 30px 15px;
+	}
+
+	nav .rollover .greeting,
 	nav button {
 		margin: 0;
 		display: none;
@@ -20,7 +24,19 @@
 		width: 100%;
 	}
 
-	footer {
-		width: 100%;
+}
+
+@media screen and (max-width: a.$breakpoint-mp) {
+	.term a {
+		margin: 0 15px;
+	}
+
+	.term .sectionX {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.sectionX {
+		padding: 0 15px;
 	}
 }
