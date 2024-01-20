@@ -45,7 +45,7 @@
 	  {/if}
 
 	  {#if show}
-      <h3 class="vipOdds">BE8396B9</h3>
+      <h3 class="vipOdds">N/A</h3>
 	  {/if}
     <p class="freeOdds"><strong>Recovery Odd:</strong> BE8396B9</p>
     </div>
