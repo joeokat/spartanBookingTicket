@@ -15,7 +15,7 @@
   <div class="hot-ticket">
     <div class="ticket-price">
       <small>Ticket Price</small>
-      <p>Free for 12 days</p>
+      <p>Free for 10 days</p>
     </div>
     <div class="label">Hot 🔥</div>
   </div>
