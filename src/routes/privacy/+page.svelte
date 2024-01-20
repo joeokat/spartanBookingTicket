@@ -9,7 +9,7 @@
     <h1>Terms and Conditions</h1>
     <div>By using Spartan Booking Ticket you agree to the following terms.</div>
 
-    <div><h3>App Use:</h3> By using this prediction app (“Spartan Booking Ticket”), users (“User”) agree to adhere to all terms and conditions, privacy policies, and usage guidelines of the App.</div>
+    <div><h3> Eligibility:</h3> To use our services, you must be at least 18 years of age or have the consent of a legal guardian. By using our services, you warrant that you meet these criteria.</div>
     </div>
 
     <div class="privacy">
