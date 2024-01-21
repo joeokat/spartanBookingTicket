@@ -45,7 +45,7 @@
 	  {/if}
 
 	  {#if show}
-      <h3 class="vipOdds">N/A</h3>
+      <h3 class="vipOdds">6AB27C5C</h3>
 	  {/if}
     <p class="freeOdds"><strong>Rollover - WK3:</strong> BE8396B9</p>
     </div>
