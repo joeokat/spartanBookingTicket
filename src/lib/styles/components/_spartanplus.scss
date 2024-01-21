@@ -73,6 +73,10 @@ dialog {
 	// } @else {
 	// 	display: none;
 	// }
+	margin: 0 auto;
+	left: 0;
+	bottom: 0;
+	position: relative;
 	text-align: center;
 	flex-direction: column;
 	padding: 20px;

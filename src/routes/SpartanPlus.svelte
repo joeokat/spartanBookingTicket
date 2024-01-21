@@ -12,7 +12,7 @@
 </div>
 
 <div class="overlay" 
-on:keydown={handleEscape} tabindex="0"
+  on:keydown={handleEscape} tabindex="0"
   style="{`display: ${showModal ? 'block' : 'none'}`}"
   on:click={handleClose}>
 </div>
@@ -20,8 +20,9 @@ on:keydown={handleEscape} tabindex="0"
 <dialog on:click={(e) => e.stopPropagation()}
   style="{`display: ${showModal ? 'flex' : 'none'}`}"
   >
-  <h3>Get VIP Odds</h3>
-  <p>For only Ghs25 daily to access Spartan +</p>
+  <h3 style="padding-bottom: 1rem; font-size: 1.5rem">Spartan +</h3>
+  <hr />
+  <p style="padding-top: 1rem;">Subscribe for only ¢25 daily to access premium odds</p>
   <div class="dialog-btns">
     <button class="btn-cancel" on:click={handleClose}>Cancel</button>
     <button class="btn-subscribe" on:click={handlePayment}>Subscribe</button>

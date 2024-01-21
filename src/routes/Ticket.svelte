@@ -38,14 +38,14 @@
   </div>
 
   <div class="barcode">
-    <p>Tap to display VIP ODDS</p>
+    <p>Premiums odds Available</p>
     <div class="winning-ticket">
 	  {#if !show}
       <img {src} alt="" on:click={() => show = true}>
 	  {/if}
 
 	  {#if show}
-      <h3 class="vipOdds">6AB27C5C</h3>
+      <h3 class="vipOdds">75AC676B</h3>
 	  {/if}
     <p class="freeOdds"><strong>Rollover - WK3:</strong> BE8396B9</p>
     </div>
