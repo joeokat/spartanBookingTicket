@@ -28,8 +28,6 @@
 
     </div>
 
-    
-    
 
     <div class="privacy">
     <h1>Privacy Policy</h1>
@@ -50,6 +48,6 @@
     </div>
     
   </div>
-  <a style="border: 30px;" href="/">Return Home</a>
-  
+  <a href="/">←  Return</a>
 </div>
+

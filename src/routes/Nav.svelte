@@ -13,7 +13,7 @@
 	  const currentDate = new Date();
 	  const startOfYear = new Date(currentDate.getFullYear(), 0, 0);
   	const diff = currentDate - startOfYear;
-  	return `Day ${Math.floor(diff / (24 * 60 * 60 * 1000))} of 365¼`;
+  	return `Day ${Math.floor(diff / (24 * 60 * 60 * 1000))} of 365½`;
   }
 </script>
 
@@ -33,5 +33,5 @@
     </div>
   </div>
 
-    <button on:click={handleButton}>Join Us</button>
+    <button on:click={handleButton}>Join Us   →</button>
 </nav>
