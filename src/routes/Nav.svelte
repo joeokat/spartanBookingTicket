@@ -5,7 +5,7 @@
   let monthName = date.toLocaleString('default', { month: 'long' });
 
   function handleButton() {
-    alert('Stay calm! VIP will be right back.')
+    alert('Stay calm and enjoy daily free odds for now.')
   }
 
   function getDate() {
@@ -32,5 +32,5 @@
     </div>
   </div>
 
-    <button on:click={handleButton}>Join Now</button>
+    <button on:click={handleButton}>Join Us</button>
 </nav>
