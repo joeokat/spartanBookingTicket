@@ -28,12 +28,12 @@
 
     <div class="number-ofBet">
       <small>Outcome</small>
-      <p>5</p>
+      <p>1</p>
     </div>
 
     <div class="total-odds">
       <small> Total Odds</small>
-      <p>2.34</p>
+      <p>2.01</p>
     </div>
   </div>
 
