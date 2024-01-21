@@ -32,5 +32,5 @@
     </div>
   </div>
 
-    <button on:click={handleButton}>Spartan +</button>
+    <button on:click={handleButton}>Join Now</button>
 </nav>
