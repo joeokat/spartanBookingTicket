@@ -21,7 +21,7 @@
     <div class="profile">
       <img {src} alt="" />
       <div class="greeting">
-        <p>Spartan</p>
+        <p>Spartan Odx</p>
         <small>Booking Tickets</small>
       </div>
     </div>
