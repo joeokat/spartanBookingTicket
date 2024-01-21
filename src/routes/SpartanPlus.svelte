@@ -31,7 +31,7 @@
 
 <div class="overlay" id="overlay"></div>
 
-<dialog id="modal" open>
+<dialog id="modal">
   <h3>Get VIP Odds</h3>
   <p>For only Ghs25 daily to access Spartan +</p>
   <div class="dialog-btns">
