@@ -6,17 +6,34 @@
 <div class="term">
   <div class="sectionX">
     <div class="privacy">
-    <h1>Terms and Conditions</h1>
-    <div>By using Spartan Booking Ticket you agree to the following terms.</div>
+      <h1>Terms and Conditions</h1>
+      <div>By using Spartan Odx Booking Ticket you agree to the following terms.</div>
 
-    <div><h3> Eligibility:</h3> To use our services, you must be at least 18 years of age or have the consent of a legal guardian. By using our services, you warrant that you meet these criteria.</div>
+      <div><h3>Eligibility:</h3> To use our services, you must be at least 18 years of age or above 18 and agree to adhere to all terms and conditions, privacy policies, and usage guidelines of the App.
+      </div>
+
+      <div><h3>Service Description:</h3> Spartan Odx provides free and premium sporty booking tickets everyday. Our services aim to grant users the ability to stake responsibly whiles leading them to victory and success.
+      </div>
+
+      <div><h3>Payment and Fees:</h3> Fees for our services are outlined on odx.vercel.app and is subject to change without prior notice. Payment is due before you can access premium services. We accept various forms of payment through secure and trusted channels.
+      </div>
+
+      <div><h3>Limitation of Liability:</h3> Spartan Odx shall not be held liable for any direct, indirect, incidental, special, or consequential damages arising from the use of our services, including but not limited to loss of data, profits, or business interruption.
+      </div>
+
+      <div><h3>Modifications to Terms:</h3> We reserve the right to update or modify these terms and conditions at any time without prior notice. It is your responsibility to review the terms periodically for any changes.
+      </div>
+
+      <div><h3>Governing Law:</h3> This Terms and Privacy Policy and any dispute arising out of or in connection with it shall be governed by and construed in accordance with the laws of Ghana, without giving effect to any principles of conflicts of law.</div>
+
     </div>
+
+    
+    
 
     <div class="privacy">
     <h1>Privacy Policy</h1>
-    <div>By using Spartan Booking Ticket you agree to the following privacy policy.</div>
-
-    <div><h3>App Use:</h3> By using this prediction app (“Spartan Booking Ticket”), users (“User”) agree to adhere to all terms and conditions, privacy policies, and usage guidelines of the App.</div>
+    <div>By using Spartan Odx Booking Ticket you agree to the following privacy policy.</div>
 
     <div><h3>Responsible Gaming:</h3> Users agree to engage in responsible gaming, which means not gambling more than they can afford to lose, setting realistic gaming goals, and being aware of potential problem gambling.</div>
 
@@ -26,11 +43,9 @@
 
     <div><h3>Indemnification:</h3> The User agrees to indemnify and hold harmless the App and its related entities from any claim, loss, damage, liability, or expense, arising from or in any way connected with the User's use of the App.</div>
 
-    <div><h3>Governing Law:</h3> This Policy and any dispute arising out of or in connection with it shall be governed by and construed in accordance with the laws of Ghana, without giving effect to any principles of conflicts of law.</div>
-
     <div><h3>Severability:</h3> If any provision of this Policy is held to be invalid, unlawful, or unenforceable, the remaining provisions of this Policy will not be affected and will continue in full force and effect.</div>
 
-    <div><h3>Contact Us:</h3> If you have any questions or concerns about this Policy, please contact the App's customer support team at fleetlabs@yahoo.com.</div>
+    <div><h3>Contact Us:</h3> If you have any questions or concerns about this Policy, please contact the App's customer support team at +4475554946.</div>
 
     </div>
     
