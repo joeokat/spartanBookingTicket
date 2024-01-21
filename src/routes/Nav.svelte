@@ -5,7 +5,8 @@
   let monthName = date.toLocaleString('default', { month: 'long' });
 
   function handleButton() {
-    alert('Stay calm and enjoy daily free odds for now.')
+    let url = "https://whatsapp.com/channel/0029VaLVJWOLI8Yby1lM7U0G";
+    window.open(url, "_blank");
   }
 
   function getDate() {
