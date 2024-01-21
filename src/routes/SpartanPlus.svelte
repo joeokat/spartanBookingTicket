@@ -22,10 +22,11 @@
   >
   <h3 style="padding-bottom: 1rem; font-size: 1.5rem">Spartan +</h3>
   <hr />
-  <p style="padding-top: 1rem;">Subscribe for only ¢25 daily to access premium odds</p>
+  <p style="padding-top: 1rem;">Get VIP ticket for only $2, subscribe daily to access premium odds.</p>
+  <p style="color: gray; padding-top: 0.5rem;">Terms & Conditions Apply</p>
   <div class="dialog-btns">
-    <button class="btn-cancel" on:click={handleClose}>Cancel</button>
     <button class="btn-subscribe" on:click={handlePayment}>Subscribe</button>
+    <button class="btn-cancel" on:click={handleClose}>Cancel</button>
   </div>
 </dialog>
 
@@ -43,7 +44,7 @@
   }
 
   function handlePayment() {
-    //
+    alert('Stay calm! VIP channels under development')
   }
 
   

@@ -67,13 +67,11 @@ dialog {
 	margin: 0 auto;
 	left: 0;
 	bottom: 0;
-	
 	text-align: center;
 	flex-direction: column;
 	padding: 20px;
 	border-radius: 20px;
 	background-color: var(--white);
-	border: 1px solid ccc;
 
 	.dialog-btns {
 		display: flex;
@@ -85,7 +83,7 @@ dialog {
 		.btn-cancel {
 			border: 0;
 			height: 50px;
-			padding: 14px 55px;
+			padding: 14px 25px;
 			border-radius: 2.6rem;
 			font-size: 1rem;
 			font-weight: 500;
@@ -99,7 +97,7 @@ dialog {
 		.btn-subscribe {
 			border: 0;
 			height: 50px;
-			padding: 14px 55px;
+			padding: 14px 25px;
 			border-radius: 2.6rem;
 			font-size: 1rem;
 			font-weight: 500;
