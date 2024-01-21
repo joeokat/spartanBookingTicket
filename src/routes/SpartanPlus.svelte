@@ -11,9 +11,15 @@
   </div>
 </div>
 
-<div class="overlay" on:click={handleClose}></div>
+<div class="overlay" 
+on:keydown={handleEscape} tabindex="0"
+  style="{`display: ${showModal ? 'block' : 'none'}`}"
+  on:click={handleClose}>
+</div>
 
-<dialog on:click={(e) => e.stopPropagation()}>
+<dialog on:click={(e) => e.stopPropagation()}
+  style="{`display: ${showModal ? 'flex' : 'none'}`}"
+  >
   <h3>Get VIP Odds</h3>
   <p>For only Ghs25 daily to access Spartan +</p>
   <div class="dialog-btns">
@@ -37,5 +43,12 @@
 
   function handlePayment() {
     //
+  }
+
+  
+  function handleEscape(event) {
+    if (event.key === 'Escape') {
+      closeModal();
+    }
   }
 </script>

@@ -54,11 +54,11 @@
 }
 
 .overlay {
-	@if showModal {
-		display: block;
-	} @else {
-		display: none;
-	}
+	// @if showModal {
+	// 	display: block;
+	// } @else {
+	// 	display: none;
+	// }
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -68,11 +68,11 @@
 }
 
 dialog {
-	@if showModal {
-		display: flex;
-	} @else {
-		display: none;
-	}
+	// @if showModal {
+	// 	display: flex;
+	// } @else {
+	// 	display: none;
+	// }
 	text-align: center;
 	flex-direction: column;
 	padding: 20px;
