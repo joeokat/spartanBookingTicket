@@ -1,21 +1,3 @@
-<script>
-  let src = '/backgroundImg.png';
-
-  function handleModal() {
-    document.getElementById('overlay').style.display = 'block';
-    document.getElementById('modal').showModal();
-  }
-
-  function handleClose() {
-    document.getElementById('overlay').style.display = 'none';
-    document.getElementById('modal').close();
-  }
-
-  function handlePayment() {
-    //
-  }
-</script>
-
 <div class="spartanPlus">
   <div class="container">
     <img {src} alt="">
@@ -29,9 +11,9 @@
   </div>
 </div>
 
-<div class="overlay" id="overlay"></div>
+<div class="overlay" on:click={handleClose}></div>
 
-<dialog id="modal">
+<dialog on:click={(e) => e.stopPropagation()}>
   <h3>Get VIP Odds</h3>
   <p>For only Ghs25 daily to access Spartan +</p>
   <div class="dialog-btns">
@@ -40,6 +22,20 @@
   </div>
 </dialog>
 
-<style>
+<script>
+  let src = '/backgroundImg.png';
 
-</style>
+  let showModal = false;
+
+  function handleModal() {
+    showModal = true;
+  }
+
+  function handleClose() {
+    showModal = false;
+  }
+
+  function handlePayment() {
+    //
+  }
+</script>
