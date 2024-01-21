@@ -44,7 +44,7 @@
   }
 
   function handlePayment() {
-    alert('Stay calm! VIP channels under development')
+    alert('Stay calm! VIP channels are still under development. Thank You!')
   }
 
   
