@@ -1,6 +1,6 @@
 {
-  "name":"Spartan Booking Ticket",
-  "short_name":"Spartan Booking Ticket",
+  "name":"Spartan Odx",
+  "short_name":"odx.vercel.com",
   "icons":[{
     "src":"/android-chrome-192x192.png",
     "sizes":"192x192",
@@ -11,7 +11,7 @@
       "sizes":"512x512",
       "type":"image/png"
   }],
-      "theme_color":"#E7F161",
-      "background_color":"#E7F161",
+      "theme_color":"#212121",
+      "background_color":"#101010",
       "display":"standalone"
 }
