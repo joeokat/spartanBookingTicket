@@ -10,11 +10,14 @@
 		background-color: var(--lemonGreen);
 		text-decoration: none;
 		border-radius: 30px;
-	}	
+		display: inline-block;
+		margin-top: 20px;
+		margin-bottom: 40px;
+	}
 }
 
 .privacy {
-	
+
 	color: var(--white);
 	font-size: 16px;
 
@@ -27,4 +30,3 @@
 		}
 	}
 }
-
