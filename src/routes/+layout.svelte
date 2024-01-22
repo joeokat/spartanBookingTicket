@@ -1,5 +1,7 @@
 <script>
-  import '$lib/styles/app.scss'
+	import Nav from "./Nav.svelte";
+	import '$lib/styles/app.scss'
 </script>
 
+<Nav />
 <slot />
