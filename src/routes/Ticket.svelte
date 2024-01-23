@@ -38,7 +38,7 @@
   </div>
 
   <div class="barcode">
-    <p style="margin: 0 1rem">Premiums Odds</p>
+    <p style="margin: 1rem 0;">Premiums Odds</p>
     <div class="winning-ticket">
 	  {#if !show}
       <img {src} alt="" on:click={() => show = true}>
