@@ -15,7 +15,7 @@
   <div class="hot-ticket">
     <div class="ticket-price">
       <small>Ticket Price</small>
-      <p>Free for 09 days</p>
+      <p>Free for 07 days</p>
     </div>
     <div class="label">Hot 🔥</div>
   </div>
@@ -33,7 +33,7 @@
 
     <div class="total-odds">
       <small> Total Odds</small>
-      <p>1.98</p>
+      <p>2.00</p>
     </div>
   </div>
 
@@ -47,6 +47,7 @@
 	  {#if show}
       <h3 class="vipOdds">########</h3>
 	  {/if}
+<p style="color= #ccc; margin-bottom:1.5rem;"> Premium subscriptions are valid until tickets are won </p>
     <p class="freeOdds"><strong>Rollover - WK4:</strong> 3577F274</p>
     </div>
   </div>
