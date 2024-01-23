@@ -49,7 +49,7 @@
 		},
 		{
 			title: 'Contact Us',
-			paragraph: 'If you have any questions or concerns about this Policy, please contact the App\'s customer support team at +4475554946.'
+			paragraph: 'If you have any questions or concerns about this Policy, please contact the App\'s customer support team at hokagefitz@gmail.com.'
 		},
 	]
   }
@@ -61,24 +61,19 @@
       <h1>Terms and Conditions</h1>
       <div>By using Spartan Odx Booking Ticket you agree to the following terms.</div>
 
-	  {#each content.termsAndConditions as {title, paragraph} (title)}
-      <div><h3>{title}:</h3> {paragraph} </div>
-	  {/each}
-    </div>
-
+			{#each content.termsAndConditions as {title, paragraph} (title)}
+				<div><h3>{title}:</h3> {paragraph} </div>
+			{/each}
+		</div>
 
     <div class="privacy">
-    <h1>Privacy Policy</h1>
-    <div>By using Spartan Odx Booking Ticket you agree to the following privacy policy.</div>
+			<h1>Privacy Policy</h1>
+			<div>By using Spartan Odx Booking Ticket you agree to the following privacy policy.</div>
 
-	{#each content.privacyPolicy as {title, paragraph} (title)}
-    <div><h3>{title}:</h3> {paragraph} </div>
-	{/each}
-
-    
-
+			{#each content.privacyPolicy as {title, paragraph} (title)}
+				<div><h3>{title}:</h3> {paragraph} </div>
+			{/each}
     </div>
-    
   </div>
   <a href="/">←  Return</a>
 </div>
