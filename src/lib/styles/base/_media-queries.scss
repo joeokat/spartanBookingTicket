@@ -32,7 +32,8 @@
 		}
 	}
 
-	.subscription-form, .payment-success {
+	.subscription-form,
+	.payment-success {
 		width: 100%;
 	}
 }
@@ -41,8 +42,8 @@
 	.term a {
 		margin: 0 15px;
 		display: inline-block;
-			margin-top: 20px;
-			margin-bottom: 40px;
+		margin-top: 20px;
+		margin-bottom: 40px;
 	}
 
 	.term .sectionX {
