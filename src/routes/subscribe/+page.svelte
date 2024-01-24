@@ -13,11 +13,12 @@ subscribed.subscribe((value) => {
 
 <main>
 	<div class="sectionY">
-	{#if !subscribed_value}
-	<PaymentForm />
-	{:else}
-	<PaymentSuccess />
-	{/if}
+		{#if !subscribed_value}
+		<PaymentForm />
+		{:else}
+		<PaymentSuccess />
+		{/if}
+		<a class="goBack" href="/">←  Return</a>
   </div>
   <Terms />
 </main>

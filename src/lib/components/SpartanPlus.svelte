@@ -4,7 +4,7 @@
     <img class="sportyPlayer" alt="" src="/sportyImg.png">
     <div class="spartanVIP">
       <div>
-        Make Your Life Easier With   →
+        Make Life Easier With   →
       </div>
       <button on:click={handleModal}>Spartan +</button>
     </div>

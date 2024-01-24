@@ -12,12 +12,12 @@ export let handleClose;
 <div class="modal" >
 	<!-- svelte-ignore a11y-no-static-element-interactions -->
 	<div class="overlay"
-	  transition:fade={{ duration: 300 }}
+	  transition:fade={{ duration: 100 }}
 	  on:keydown={(e) => handleEscape(e)}
 	  on:click={handleClose}>
 	</div>
 	
-	<dialog transition:fade={{ duration: 300 }}>
+	<dialog transition:fade={{ duration: 150 }}>
 	  <slot />
 	</dialog>
 	</div>

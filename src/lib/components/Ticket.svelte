@@ -25,7 +25,7 @@ export let handleModal
   <div class="hot-ticket">
     <div class="ticket-price">
       <small>Ticket Price</small>
-      <p>Free for 07 days</p>
+      <p>$2</p>
     </div>
     <div class="label">Hot 🔥</div>
   </div>
@@ -38,7 +38,7 @@ export let handleModal
 
     <div class="number-ofBet">
       <small>Outcome</small>
-      <p>7</p>
+      <p>2.5</p>
     </div>
 
     <div class="total-odds">
@@ -58,7 +58,7 @@ export let handleModal
       <h3 class="vipOdds">3577F274</h3>
 	  {/if}
     <p style="color: #919191; margin:1rem; text-align: center"> Premium subscriptions are valid until tickets are won </p>
-    <p class="freeOdds"><strong>Rollover - WK4:</strong> 6CAF5E2A</p>
+    <p class="freeOdds"><strong>Free Rollover Odds - WK4:</strong> 6CAF5E2A</p>
     </div>
   </div>
 </div>

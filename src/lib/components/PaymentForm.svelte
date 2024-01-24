@@ -60,7 +60,7 @@
 		  </div>
 	  
 		<div class="form-submit">
-		  <button type="submit"> Subscribe for $2 </button>
+		  <button type="submit">Subscribe to Spartan+</button>
 		</div>
 	  
 </form>
