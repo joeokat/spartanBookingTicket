@@ -1,5 +1,5 @@
 <script>
-	import Nav from "./Nav.svelte";
+	import Nav from "$lib/components/Nav.svelte";
 	import '$lib/styles/app.scss'
 </script>
 

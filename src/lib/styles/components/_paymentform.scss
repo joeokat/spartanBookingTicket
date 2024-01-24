@@ -1,0 +1,61 @@
+@use '../abstracts' as a;
+
+.subscription-form {
+	background-color: a.color(white);
+	width: 398px;
+	border-radius: 33px;
+	margin-bottom: 14px;
+	flex-direction: column;
+	display: flex;
+	position: unset;
+	padding: 2rem;
+
+	#paymentForm {
+		.parent-group {
+			display: flex;
+			column-gap: 10px;
+
+			.form-group {
+				width: 100%;
+			}
+		}
+
+		.form-group {
+			input {
+				width: 100%;
+				border: none;
+				padding: 0.6rem;
+				margin-top: 0.5rem;
+				margin-bottom: 1.2rem;
+				outline: none;
+				text-transform: capitalize;
+			}
+		}
+
+		button {
+			background-color: #e7f161;
+			// color: color(white);
+			box-shadow: none;
+			border: none;
+			padding: 0.5rem 1rem;
+			border-radius: 10px;
+			transition: 0.2s;
+			width: 100%;
+
+			&:hover {
+				opacity: 0.9;
+			}
+		}
+	}
+}
+
+.payment-success {
+	background-color: a.color(white);
+	width: 398px;
+	border-radius: 33px;
+	margin-bottom: 14px;
+	flex-direction: column;
+	display: flex;
+	position: unset;
+	padding: 2rem;
+}

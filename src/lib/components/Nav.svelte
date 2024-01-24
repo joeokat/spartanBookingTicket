@@ -1,4 +1,7 @@
 <script>
+	import WhatsappIcon from "$lib/components/icons/WhatsappIcon.svelte";
+
+	
   let src = "/dp.png";
 
   let date = new Date();
@@ -22,7 +25,9 @@
     <div class="profile">
       <img {src} alt="" />
       <div class="greeting">
-        <p>Spartan Odx</p>
+		<a href="/">
+			<p>Spartan Odx</p>
+		</a>
         <small>Booking Tickets</small>
       </div>
     </div>
@@ -33,5 +38,5 @@
     </div>
   </div>
 
-    <button on:click={handleButton}>Join Us   →</button>
+    <button on:click={handleButton}>Join Us <WhatsappIcon width='1.3em' height='1.3em' /></button>
 </nav>
