@@ -21,7 +21,7 @@
 
 		let handler = PaystackPop.setup({
 
-			key: 'pk_test_44e2e5b0e0fb389e719b38ebc184d7134d7fd211',
+			key: 'pk_live_b2d929e70c0300736d8d7ed9e36b109510f82820',
 			currency: 'GHS',
 			email: formInput.email,
 			amount: amount * 100,
