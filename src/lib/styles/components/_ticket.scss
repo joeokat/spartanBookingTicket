@@ -86,11 +86,12 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
+		align-items: center;
 
-		img {
-			height: 100%;
-			object-fit: contain;
-		}
+		// img {
+		// 	height: 100%;
+		// 	object-fit: contain;
+		// }
 	}
 }
 

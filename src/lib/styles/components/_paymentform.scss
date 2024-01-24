@@ -34,13 +34,14 @@
 
 		button {
 			background-color: #e7f161;
-			// color: color(white);
+			color: a.color(black);
 			box-shadow: none;
 			border: none;
 			padding: 0.5rem 1rem;
 			border-radius: 10px;
 			transition: 0.2s;
 			width: 100%;
+			cursor: pointer;
 
 			&:hover {
 				opacity: 0.9;
