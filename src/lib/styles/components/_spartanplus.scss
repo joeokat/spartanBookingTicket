@@ -24,7 +24,6 @@
 			display: flex;
 			flex-direction: column;
 			width: 195px;
-			;
 			top: 55px;
 			right: 16px;
 			position: absolute;
@@ -49,63 +48,6 @@
 				color: a.color(lemonGreen);
 				background-color: a.color(black);
 			}
-		}
-	}
-}
-
-.overlay {
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background-color: rgba(0, 0, 0, 0.5);
-}
-
-dialog {
-	position: fixed;
-	margin: 0 auto;
-	left: 0;
-	bottom: 0;
-	text-align: center;
-	flex-direction: column;
-	padding: 20px;
-	border-radius: 20px;
-	background-color: var(--white);
-
-	.dialog-btns {
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: center;
-		margin-top: 1rem;
-		gap: 0.5rem;
-
-		.btn-cancel {
-			border: 0;
-			height: 50px;
-			padding: 14px 25px;
-			border-radius: 2.6rem;
-			font-size: 1rem;
-			font-weight: 500;
-			display: flex;
-			align-items: center;
-			cursor: pointer;
-			color: #fafafa;
-			background-color: #DF011F;
-		}
-
-		.btn-subscribe {
-			border: 0;
-			height: 50px;
-			padding: 14px 25px;
-			border-radius: 2.6rem;
-			font-size: 1rem;
-			font-weight: 500;
-			display: flex;
-			align-items: center;
-			cursor: pointer;
-			color: #E7F161;
-			background-color: #101010;
 		}
 	}
 }

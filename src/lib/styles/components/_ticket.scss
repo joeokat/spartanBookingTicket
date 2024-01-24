@@ -81,17 +81,21 @@
 	align-items: center;
 	justify-content: center;
 	padding-bottom: 22px;
-}
 
-.winning-ticket {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
+	.winning-ticket {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+
+		img {
+			height: 100%;
+			object-fit: contain;
+		}
+	}
 }
 
 .vipOdds,
 .freeOdds {
 	display: block;
 	margin: 0 auto;
-
 }

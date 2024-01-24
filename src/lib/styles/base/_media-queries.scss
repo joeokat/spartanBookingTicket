@@ -1,7 +1,6 @@
 @use '../abstracts' as a;
 
 @media only screen and (max-width: a.$breakpoint-mp) {
-
 	nav {
 		padding: 30px 15px;
 	}
@@ -23,11 +22,27 @@
 		width: 100%;
 	}
 
+	.modal {
+		dialog {
+			width: 100%;
+			top: auto;
+			bottom: 0;
+			left: 0;
+			transform: none;
+		}
+	}
+
+	.subscription-form, .payment-success {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: a.$breakpoint-mp) {
 	.term a {
 		margin: 0 15px;
+		display: inline-block;
+			margin-top: 20px;
+			margin-bottom: 40px;
 	}
 
 	.term .sectionX {

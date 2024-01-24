@@ -1,23 +1,23 @@
 $colors: (
-  theme: (
-    'white': #fafafa,
-    'black': #101010,
-    'green': #AFE67E,
-    'lemonGreen': #E7F161,
-	  'orange': #F2B449,
-    'red': #DF011F,
-	  'darkGray': #737373,
-	  'gray': #D6D5D5,
-	  'dottedLine': #696969,
-  ),
+	theme: (
+		'white': #fafafa,
+		'black': #101010,
+		'green': #afe67e,
+		'lemonGreen': #e7f161,
+		'orange': #f2b449,
+		'red': #df011f,
+		'darkGray': #737373,
+		'gray': #d6d5d5,
+		'dottedLine': #696969,
+	),
 );
 
 :root {
-  @each $theme, $color in map-get($colors, theme) {
-    --#{$theme}: #{$color};
-  }
+	@each $theme, $color in map-get($colors, theme) {
+		--#{$theme}: #{$color};
+	}
 }
 
 @function color($color) {
-  @return var(--#{$color});
+	@return var(--#{$color});
 }

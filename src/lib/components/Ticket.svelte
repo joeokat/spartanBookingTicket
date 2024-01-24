@@ -1,4 +1,14 @@
 <script>
+import { subscribed } from '../../stores.js';
+
+let subscribed_value;
+
+subscribed.subscribe((value) => {
+	subscribed_value = value;
+});
+
+export let handleModal
+
   const src = '/barCodeImg.png'
 
   let show = false
@@ -40,11 +50,11 @@
   <div class="barcode">
     <p style="margin: 1rem 0;">Premiums Odds</p>
     <div class="winning-ticket">
-	  {#if !show}
-      <img {src} alt="" on:click={() => show = true}>
+	  {#if !subscribed_value}
+      <img {src} alt="" on:click={handleModal}>
 	  {/if}
 
-	  {#if show}
+	  {#if subscribed_value}
       <h3 class="vipOdds">3577F274</h3>
 	  {/if}
     <p style="color: #ccc; margin:1rem; text-align: center"> Premium subscriptions are valid until tickets are won </p>
