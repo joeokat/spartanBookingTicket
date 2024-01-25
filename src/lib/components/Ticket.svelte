@@ -43,7 +43,7 @@ export let handleModal
 
     <div class="total-odds">
       <small> Total Odds</small>
-      <p>2.00</p>
+      <p>50.00</p>
     </div>
   </div>
 
@@ -55,10 +55,10 @@ export let handleModal
 	  {/if}
 
 	  {#if subscribed_value}
-      <h3 class="vipOdds">3577F274</h3>
+      <h3 class="vipOdds">CD1FC1EC</h3>
 	  {/if}
     <p style="color: #919191; margin:1rem; text-align: center"> Premium subscriptions are valid until tickets are won </p>
-    <p class="freeOdds"><strong>Free Rollover Odds - WK4:</strong> 6CAF5E2A</p>
+    <p class="freeOdds"><strong>90+ Odds - WK4:</strong> 644101CF</p>
     </div>
   </div>
 </div>
