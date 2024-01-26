@@ -38,12 +38,12 @@ export let handleModal
 
     <div class="number-ofBet">
       <small>Outcome</small>
-      <p>2.5</p>
+      <p>4</p>
     </div>
 
     <div class="total-odds">
       <small> Total Odds</small>
-      <p>50.00</p>
+      <p>2.83</p>
     </div>
   </div>
 
