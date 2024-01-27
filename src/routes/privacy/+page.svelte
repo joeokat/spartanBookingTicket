@@ -37,7 +37,11 @@
 		},
 		{
 			title: 'Privacy and Security',
-			paragraph: 'When you subscribe to our premium services, we collect the following information. Email Address Used for communication regarding your subscription, service updates, and important announcements. First and Last Name which Helps us personalize our communications with you. Use of Information. We use the collected information solely for the following purposes.'
+			paragraph: 'When you subscribe to our premium services, we collect the following information. Email Address Used for communication regarding your subscription, service updates, and important announcements. First and Last Name which Helps us personalize our communications with you.'
+		},
+		{
+			title: 'Use of Information',
+			paragraph: 'We use the collected information solely for the following purposes:'
 		},
 		{
 			title: 'Service Provision',
