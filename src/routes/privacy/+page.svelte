@@ -7,11 +7,11 @@
 		},
 		{
 			title: 'Service Description',
-			paragraph: 'Spartan Odx provides free and premium sporty booking tickets everyday. Our services aim to grant users the ability to stake responsibly whiles leading them to victory and success.'
+			paragraph: 'Spartan Odx is an odds vessel that provides free and premium sporty booking tickets for novice ~ intermediate investors every weekend. Our services aim to grant users the ability to stake responsibly whiles leading them to victory and success.'
 		},
 		{
 			title: 'Payment and Fees',
-			paragraph: 'Fees for our services are outlined on odx.vercel.app and is subject to change without prior notice. Payment is due before you can access premium services. We accept various forms of payment through secure and trusted channels.'
+			paragraph: 'Fees for our services are outlined on odx.vercel.app and is subject to change without prior notice. Payment is due before you can access premium booking codes. We accept various forms of payment through secure and trusted channels.'
 		},
 		{
 			title: 'Limitation of Liability',
@@ -37,7 +37,15 @@
 		},
 		{
 			title: 'Privacy and Security',
-			paragraph: 'The App does not collect user\'s information and usage data, even for VIP members. However, the App cannot be held responsible for any unauthorized access, use, or disclosure of such information.'
+			paragraph: 'When you subscribe to our premium services, we collect the following information. Email Address Used for communication regarding your subscription, service updates, and important announcements. First and Last Name which Helps us personalize our communications with you. Use of Information. We use the collected information solely for the following purposes.'
+		},
+		{
+			title: 'Service Provision',
+			paragraph: 'To deliver the premium services you have subscribed to.'
+		},
+		{
+			title: 'Data Security',
+			paragraph: 'Your personal information is treated with utmost security. We implement measures to safeguard it from unauthorized access or disclosure.'
 		},
 		{
 			title: 'Indemnification',
