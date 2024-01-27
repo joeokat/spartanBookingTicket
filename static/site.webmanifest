@@ -1,6 +1,6 @@
 {
 	"name": "Spartan Odx",
-	"short_name": "odx.vercel.com",
+	"short_name": "Spartan+",
 	"icons": [
 		{
 			"src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
 			"type": "image/png"
 		}
 	],
-	"theme_color": "#212121",
-	"background_color": "#101010",
+	"theme_color": "#E7F161",
+	"background_color": "#151515",
 	"display": "standalone"
 }
