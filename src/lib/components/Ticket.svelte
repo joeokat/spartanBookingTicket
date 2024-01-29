@@ -55,10 +55,10 @@ export let handleModal
 	  {/if}
 
 	  {#if subscribed_value}
-      <h3 class="vipOdds">45E934030</h3>
+      <h3 class="vipOdds">B0FD9F1</h3>
 	  {/if}
     <p style="color: #919191; margin:1rem; text-align: center"> Premium subscriptions are valid until tickets are won </p>
-    <p class="freeOdds"><strong>2+ Free Odds:</strong> 829BFEFC</p>
+    <p class="freeOdds"><strong>2+ Free Odds:</strong> 42DE390D </p>
     </div>
   </div>
 </div>
