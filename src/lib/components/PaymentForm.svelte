@@ -62,6 +62,5 @@
 		<div class="form-submit">
 		  <button type="submit">Subscribe to Spartan+</button>
 		</div>
-	  
-</form>
+	</form>
 </div>
