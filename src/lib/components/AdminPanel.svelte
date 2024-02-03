@@ -12,11 +12,11 @@
 	  
 		<div class="parent-group">
 			<div class="form-group">
-				<input type="number" id="premium-odds" placeholder="Premium Odds" bind:value={formInput.premiumOdds}/>
+				<input type="text" id="premium-odds" placeholder="Premium Odds" bind:value={formInput.premiumOdds}/>
 			</div>
 			
 			<div class="form-group">
-				<input type="number" id="free-odds" placeholder="Free Odds" bind:value={formInput.freeOdds}/>
+				<input type="text" id="free-odds" placeholder="Free Odds" bind:value={formInput.freeOdds}/>
 			</div>
 		</div>
 
