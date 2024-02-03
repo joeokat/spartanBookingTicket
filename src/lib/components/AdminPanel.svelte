@@ -1,31 +1,37 @@
 <script>
   let formInput = {
-		email: '',
-		firstName: '',
-		lastName: ''
+		oddsOutcome: '',
+		totalOdds: '',
+		premiumOdds: '',
+		freeOdds: ''
 	}
 </script>
 
-<div class="subscription-form">
-
-	<form id="adminPanel" on:submit|preventDefault={payWithPaystack}>		
+<div class="admin-panel">
+	<form id="adminForm" on:submit|preventDefault>		
 	  
 		<div class="parent-group">
-		<div class="form-group">
-		  <input type="text" id="first-name" placeholder="First Name" bind:value={formInput.firstName}/>
-		</div>
-	  
-		<div class="form-group">
-		  <input type="text" id="last-name" placeholder="Last Name" bind:value={formInput.lastName}/>
-		</div>
+			<div class="form-group">
+				<input type="number" id="premium-odds" placeholder="Premium Odds" bind:value={formInput.premiumOdds}/>
+			</div>
+			
+			<div class="form-group">
+				<input type="number" id="free-odds" placeholder="Free Odds" bind:value={formInput.freeOdds}/>
+			</div>
 		</div>
 
-		<div class="form-group">
-			<input type="email" id="email-address" required placeholder="Email Address" bind:value={formInput.email}/>
-		  </div>
+		<div class="parent-group">
+			<div class="form-group">
+				<input type="number" id="odds-outcome" placeholder="Outcome" bind:value={formInput.oddsOutcome}/>
+			</div>
+			
+			<div class="form-group">
+				<input type="number" id="total-odds" placeholder="Total Odds" bind:value={formInput.totalOdds}/>
+			</div>
+		</div>
 	  
 		<div class="form-submit">
-		  <button type="submit">Subscribe to Spartan+</button>
+		  <button type="submit">Update Ticket</button>
 		</div>
 	</form>
 </div>
