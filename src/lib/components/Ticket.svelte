@@ -58,7 +58,7 @@ export let handleModal
       <h3 class="vipOdds">x.com/SpartanOdx</h3>
 	  {/if}
     <p style="color: #919191; margin:1rem; text-align: center"> Premium subscriptions are valid until tickets are won </p>
-    <p class="freeOdds">🤑 Free Odds: <strong> AE7B899B </strong></p>
+    <p class="freeOdds">🤑 Free Odds: <strong> BCC598875 </strong></p>
     </div>
   </div>
 </div>
