@@ -8,7 +8,7 @@
 </script>
 
 <div class="admin-panel">
-	<form id="adminForm" on:submit|preventDefault>		
+	<form id="adminForm" on:submit|preventDefault>
 	  
 		<div class="parent-group">
 			<div class="form-group">
