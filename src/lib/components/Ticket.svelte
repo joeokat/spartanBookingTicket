@@ -38,12 +38,12 @@ export let handleModal
 
     <div class="number-ofBet">
       <small>Outcome</small>
-      <p>4</p>
+      <p>3/3</p>
     </div>
 
     <div class="total-odds">
       <small> Total Odds</small>
-      <p>2.83</p>
+      <p>3.83+</p>
     </div>
   </div>
 
@@ -55,7 +55,7 @@ export let handleModal
 	  {/if}
 
 	  {#if subscribed_value}
-      <h3 class="vipOdds">x.com/SpartanOdx</h3>
+      <h3 class="vipOdds"> DM SpartanOdx on X </h3>
 	  {/if}
     <p style="color: #919191; margin:1rem; text-align: center"> Premium subscriptions are valid until tickets are won </p>
     <p class="freeOdds">🤑 Free Odds: <strong> 6F1DB3EF </strong></p>
