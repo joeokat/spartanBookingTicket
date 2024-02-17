@@ -6,7 +6,7 @@
       <div>
         Make Life Easier With Spartan+  →
       </div>
-      <button on:click={handleModal}> Donate </button>
+      <button on:click={handleModal}> 💵 Tip 💵 </button>
     </div>
   </div>
 </div>
