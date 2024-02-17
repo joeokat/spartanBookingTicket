@@ -4,9 +4,9 @@
     <img class="sportyPlayer" alt="" src="/sportyImg.png">
     <div class="spartanVIP">
       <div>
-        Make Life Easier With   →
+        Make Life Easier With Spartan+  →
       </div>
-      <button on:click={handleModal}>Spartan +</button>
+      <button on:click={handleModal}> Donate </button>
     </div>
   </div>
 </div>
