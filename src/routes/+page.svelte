@@ -26,20 +26,20 @@ function closeModal() {
 <main>
 	{#if !subscribed_value}
 	<Modal showModal={show} handleClose={closeModal}>
-	  <h3 class="heading">Spartan +</h3>
+	  <h3 class="heading"> Spartan + </h3>
 	  <hr />
-	  <p class="description">Get VIP ticket for only $2, subscribe daily to access premium odds.</p>
-	  <p class="termss">Terms & Conditions Apply</p>
+	  <p class="description"> Support us daily to access premium odds. </p>
+	  <p class="termss"> Terms & Conditions Apply </p>
 	  <div class="dialog-btns">
 		<a href="/subscribe">
-			<button class="btn-subscribe">Subscribe</button>
+			<button class="btn-subscribe"> Support </button>
 		</a>
-		<button class="btn-cancel" on:click={closeModal}>Cancel</button>
+		<button class="btn-cancel" on:click={closeModal}> Cancel </button>
 	  </div>
 	</Modal>
 	{:else}
 	<Modal showModal={show} handleClose={closeModal}>
-		<div>You are already subscribed to Spartan+</div>
+		<div>You are already supporting Spartan+</div>
 	</Modal>
 	{/if}
 	
