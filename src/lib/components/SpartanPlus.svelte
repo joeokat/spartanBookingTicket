@@ -6,7 +6,7 @@
       <div>
         Make Life Easier With Spartan+
       </div>
-      <button on:click={handleModal}> Support Panelist </button>
+      <button on:click={handleModal}> Support Tipster </button>
     </div>
   </div>
 </div>
