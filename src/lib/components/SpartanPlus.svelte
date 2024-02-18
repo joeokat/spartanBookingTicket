@@ -4,9 +4,9 @@
     <img class="sportyPlayer" alt="" src="/sportyImg.png">
     <div class="spartanVIP">
       <div>
-        Make Life Easier With Spartan+  →
+        Make Life Easier With Spartan+
       </div>
-      <button on:click={handleModal}> Support </button>
+      <button on:click={handleModal}> Support Panelist </button>
     </div>
   </div>
 </div>
