@@ -60,7 +60,7 @@
 		  </div>
 	  
 		<div class="form-submit">
-		  <button type="submit"> Tip to win more </button>
+		  <button type="submit"> Get 3X ticket for only $2 </button>
 		</div>
 	</form>
 </div>
