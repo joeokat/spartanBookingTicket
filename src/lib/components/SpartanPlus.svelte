@@ -4,7 +4,7 @@
     <img class="sportyPlayer" alt="" src="/sportyImg.png">
     <div class="spartanVIP">
       <div>
-        Support our Panelist 
+        Enjoy more free games with
       </div>
       <button on:click={handleModal}> Spartan + </button>
     </div>
