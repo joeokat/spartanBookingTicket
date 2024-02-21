@@ -4,9 +4,9 @@
     <img class="sportyPlayer" alt="" src="/sportyImg.png">
     <div class="spartanVIP">
       <div>
-        Enjoy more games with Extra Tickets
+        Win more games with Extra Tickets
       </div>
-      <button on:click={handleModal}> Get Premium </button>
+      <button on:click={handleModal}> Go Premium </button>
     </div>
   </div>
 </div>
