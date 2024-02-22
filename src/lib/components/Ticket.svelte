@@ -58,7 +58,7 @@ export let handleModal
       <h3 class="vipOdds"> RT pinned post on X </h3>
 	  {/if}
     <p style="color: #919191; margin:1rem; text-align: center"> Premium subscriptions are valid until tickets are won </p>
-    <p class="freeOdds">🤑 Free odds to edit: <strong> 9759EF9 </strong></p>
+    <p class="freeOdds">🤑 Free odds to edit: <strong> F959277 </strong></p>
     </div>
   </div>
 </div>
