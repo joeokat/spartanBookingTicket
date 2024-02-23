@@ -4,7 +4,7 @@
     <img class="sportyPlayer" alt="" src="/sportyImg.png">
     <div class="spartanVIP">
       <div>
-        Support us to Boooom💥 more
+        Support us to Boom💥 more
       </div>
       <button on:click={handleModal}> Spartan + </button>
     </div>
