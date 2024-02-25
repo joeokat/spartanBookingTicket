@@ -43,7 +43,7 @@ export let handleModal
 
     <div class="total-odds">
       <small> Total Odds</small>
-      <p>90.83+</p>
+      <p>7.83+</p>
     </div>
   </div>
 
@@ -58,7 +58,7 @@ export let handleModal
       <h3 class="vipOdds"> RT pinned post on X </h3>
 	  {/if}
     <p style="color: #919191; margin:1rem; text-align: center"> Premium subscriptions are valid until tickets are won </p>
-    <p class="freeOdds">🤑 Free odds to edit: <strong> C25EBC2 </strong></p>
+    <p class="freeOdds">🤑 Free odds to edit: <strong> Join Channel </strong></p>
     </div>
   </div>
 </div>
