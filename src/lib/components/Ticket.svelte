@@ -43,22 +43,22 @@ export let handleModal
 
     <div class="total-odds">
       <small> Total Odds</small>
-      <p>7.83+</p>
+      <p>2.33+</p>
     </div>
   </div>
 
   <div class="barcode">
-    <p style="margin: 1rem 0;">Premiums Odds</p>
+    <p style="margin: 1rem 0;"> Premium Odds [ BOOMX ] </p>
     <div class="winning-ticket">
 	  {#if !subscribed_value}
       <img {src} alt="" on:click={handleModal}>
 	  {/if}
 
 	  {#if subscribed_value}
-      <h3 class="vipOdds"> RT pinned post on X </h3>
+      <h3 class="vipOdds"> 6306686B </h3>
 	  {/if}
     <p style="color: #919191; margin:1rem; text-align: center"> Premium subscriptions are valid until tickets are won </p>
-    <p class="freeOdds">🤑 Free odds to edit: <strong> Join Channel </strong></p>
+    <p class="freeOdds">🤑 Free Odds: <strong> 6306686B </strong></p>
     </div>
   </div>
 </div>
