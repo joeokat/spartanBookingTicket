@@ -4,9 +4,9 @@
     <img class="sportyPlayer" alt="" src="/sportyImg.png">
     <div class="spartanVIP">
       <div>
-        Support us to Boom💥 more
+        Subscribe to get Spartan+ tickets
       </div>
-      <button on:click={handleModal}> Spartan + </button>
+      <button on:click={handleModal}> BOOM 3X </button>
     </div>
   </div>
 </div>
