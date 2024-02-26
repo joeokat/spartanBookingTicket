@@ -32,14 +32,14 @@ function closeModal() {
 	  <p class="termss"> Terms & Conditions Apply </p>
 	  <div class="dialog-btns">
 		<a href="/subscribe">
-			<button class="btn-subscribe"> Support </button>
+			<button class="btn-subscribe"> subscribe </button>
 		</a>
 		<button class="btn-cancel" on:click={closeModal}> Cancel </button>
 	  </div>
 	</Modal>
 	{:else}
 	<Modal showModal={show} handleClose={closeModal}>
-		<div>You are already supporting Spartan+</div>
+		<div>You are already subscribed to Spartan +</div>
 	</Modal>
 	{/if}
 	

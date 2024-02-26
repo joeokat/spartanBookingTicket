@@ -30,20 +30,23 @@
 
 			div {
 				font-size: 1.6rem;
-				font-weight: 600;
+				font-weight: 700;
 				color: a.color(black);
 			}
 
 			button {
-				/* margin: 0; */
-				border: 0;
-				height: 50px;
-				padding: 14px 55px;
-				border-radius: 2.6rem;
-				font-size: 1rem;
-				font-weight: 500;
 				display: flex;
 				align-items: center;
+				justify-content: center;
+				
+				height: 50px;
+				padding: 14px 0;
+				margin: 8px 0;
+				border: 0;
+				border-radius: 2.6rem;
+
+				font-size: 1.1rem;
+				font-weight: 500;
 				cursor: pointer;
 				color: a.color(lemonGreen);
 				background-color: a.color(black);
