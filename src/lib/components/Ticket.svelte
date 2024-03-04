@@ -58,7 +58,7 @@ export let handleModal
       <h3 class="vipOdds"> 0A87057 </h3>
 	  {/if}
     <p style="color: #919191; margin:1rem; text-align: center"> Premium subscriptions are valid until tickets are won </p>
-    <p class="freeOdds">🤑 Free Odds: <strong> Join Channel </strong></p>
+    <p class="freeOdds"> Get Free Odds: <strong> Join WhatsApp Channel </strong></p>
     </div>
   </div>
 </div>
