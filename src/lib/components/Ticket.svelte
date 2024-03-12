@@ -64,7 +64,7 @@
 			</p>
 			<p class="freeOdds">Get Free Odds: <strong> 1ED98408 </strong></p>
 			<p class="freeOdds">
-				Get Free Odds: <strong> Check WhatsApp Channel </strong>
+				Get Free Odds: <strong> 1ED98408 </strong>
 			</p>
 		</div>
 	</div>
