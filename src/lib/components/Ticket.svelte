@@ -62,9 +62,9 @@
 			<p style="color: #919191; margin:1rem; text-align: center">
 				Premium subscriptions are valid until tickets are won
 			</p>
-			<p class="freeOdds">Get Free Odds: <strong> 1ED98408 </strong></p>
+			<p class="freeOdds">Get Free Odds: <strong> 8B1F046B </strong></p>
 			<p class="freeOdds">
-				Get Free Odds: <strong> 1ED98408 </strong>
+				Get Free Odds: <strong> 8B1F046B </strong>
 			</p>
 		</div>
 	</div>
