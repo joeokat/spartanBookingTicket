@@ -50,20 +50,20 @@
 	</div>
 
 	<div class="barcode">
-		<p style="margin: 1rem 0;">Premium Odds [ BOOMX ]</p>
+		<p style="margin: 1rem 0;">POWER UP [ 🍄 ]</p>
 		<div class="winning-ticket">
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value}
-				<h3 class="vipOdds"> DM on Twitter </h3>
+				<h3 class="vipOdds"> 54C98881 </h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
 				Premium subscriptions are valid until tickets are won
 			</p>
-			<p class="freeOdds">Free SportyBet: <strong> 783D6363 </strong></p>
-			<p class="freeOdds">Free mSport: <strong> B3XTJSF </strong></p>
+			<p class="freeOdds">EDIT 1: <strong> 9A9C6CFC </strong></p>
+			<p class="freeOdds">EDIT 2: <strong> C9EA7F0 </strong></p>
 		</div>
 	</div>
 </div>
