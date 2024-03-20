@@ -4,9 +4,9 @@
     <img class="sportyPlayer" alt="" src="/sportyImg.png">
     <div class="spartanVIP">
       <div>
-        Subscribe to Premium Odx
+        Subscribe to Support us
       </div>
-      <button on:click={handleModal}> Get Spartan + </button>
+      <button on:click={handleModal}> Tip Tipster </button>
     </div>
   </div>
 </div>
