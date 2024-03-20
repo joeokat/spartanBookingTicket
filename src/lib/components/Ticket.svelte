@@ -50,20 +50,20 @@
 	</div>
 
 	<div class="barcode">
-		<p style="margin: 1rem 0;">POWER UP [ 🍄 ]</p>
+		<p style="margin: 1rem 0;">POWER UP 🍄 </p>
 		<div class="winning-ticket">
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value}
-				<h3 class="vipOdds"> 54C98881 </h3>
+				<h3 class="vipOdds"> Thank You 👏🏽</h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
 				Premium subscriptions are valid until tickets are won
 			</p>
-			<p class="freeOdds">EDIT 1: <strong> 9A9C6CFC </strong></p>
-			<p class="freeOdds">EDIT 2: <strong> C9EA7F0 </strong></p>
+			<p class="freeOdds">Sporty: <strong> ======== </strong></p>
+			<p class="freeOdds">mSport: <strong> B3YD834 </strong></p>
 		</div>
 	</div>
 </div>
