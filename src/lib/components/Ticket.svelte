@@ -50,7 +50,7 @@
 	</div>
 
 	<div class="barcode">
-		<p style="margin: 1rem 0;">POWER UP 🍄 </p>
+		
 		<div class="winning-ticket">
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
@@ -60,7 +60,7 @@
 				<h3 class="vipOdds"> Thank You 👏🏽</h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
-				Premium subscriptions are valid until tickets are won
+				Power up 🍄 with #SpartanPlus
 			</p>
 			<p class="freeOdds">Sporty: <strong> ======== </strong></p>
 			<p class="freeOdds">mSport: <strong> B3YD834 </strong></p>
