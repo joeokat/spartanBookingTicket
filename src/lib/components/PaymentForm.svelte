@@ -60,7 +60,7 @@
 		  </div>
 	  
 		<div class="form-submit">
-		  <button type="submit"> Tip the Tipster </button>
+		  <button type="submit"> Tip us for only $2 </button>
 		</div>
 	</form>
 </div>
