@@ -4,9 +4,9 @@
     <img class="sportyPlayer" alt="" src="/sportyImg.png">
     <div class="spartanVIP">
       <div>
-        Subscribe to Support us
+        Tip the Tipster
       </div>
-      <button on:click={handleModal}> Tip Tipster </button>
+      <button on:click={handleModal}> Support us </button>
     </div>
   </div>
 </div>
