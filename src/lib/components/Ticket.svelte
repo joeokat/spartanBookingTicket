@@ -52,7 +52,7 @@
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				International Break: <strong> We'll Be Right Back </strong>
+				International Break:<br /> <strong> We'll Be Right Back </strong>
 			</p>
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
