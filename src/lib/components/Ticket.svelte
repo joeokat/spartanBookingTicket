@@ -60,10 +60,10 @@
 				<h3 class="vipOdds"> Thank You 👏🏽</h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
-				Power up 🍄 with #SpartanPlus
+				Power up with #SpartanPlus🍄
 			</p>
 			<p class="freeOdds">Sporty: <strong> ======== </strong></p>
-			<p class="freeOdds">mSport: <strong> B3YD834 </strong></p>
+			<p class="freeOdds">mSport: <strong> ======== </strong></p>
 		</div>
 	</div>
 </div>
