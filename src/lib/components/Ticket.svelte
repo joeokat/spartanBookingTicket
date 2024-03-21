@@ -50,14 +50,16 @@
 	</div>
 
 	<div class="barcode">
-		
 		<div class="winning-ticket">
+			<p style="margin:1rem; text-align: center">
+				International Break: <strong> We'll Be Right Back </strong>
+			</p>
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value}
-				<h3 class="vipOdds"> Thank You 👏🏽</h3>
+				<h3 class="vipOdds">Thank You 👏🏽</h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
 				Power up with #SpartanPlus🍄
