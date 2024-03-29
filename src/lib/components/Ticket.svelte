@@ -64,7 +64,7 @@
 			<p style="color: #919191; margin:1rem; text-align: center">
 				Power up with #SpartanPlus 🍄
 			</p>
-			<p class="freeOdds"> Follow on X (Formally Twitter): <strong> @SpartanOdx </strong></p>
+			<p class="freeOdds"> X (Formally Twitter): <strong> @SpartanOdx </strong></p>
 			
 		</div>
 	</div>
