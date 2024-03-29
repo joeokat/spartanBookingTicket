@@ -73,7 +73,7 @@
 		</div>
 
 		<div class="form-submit">
-			<button type="submit"> Subscribe for only ¢30 </button>
+			<button type="submit"> Subscribe for only ¢30/week </button>
 		</div>
 	</form>
 </div>
