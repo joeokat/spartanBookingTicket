@@ -59,12 +59,12 @@
 			{/if}
 
 			{#if subscribed_value}
-				<h3 class="vipOdds"> 3A8F4962 👏🏽</h3>
+				<h3 class="vipOdds"> B3ALE1Q 👏🏽</h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
-				Power up with #SpartanPlus 🍄
+				subscription are valid until slips are won
 			</p>
-			<p class="freeOdds"> X (Formally Twitter): <strong> @SpartanOdx </strong></p>
+			
 			
 		</div>
 	</div>
