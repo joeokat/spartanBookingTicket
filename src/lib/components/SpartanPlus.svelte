@@ -10,7 +10,7 @@
 		<img class="sportyPlayer" alt="" src="/sportyImg.png" />
 		<div class="spartanVIP">
 			<div>Subscribe to Spartan Plus</div>
-			<button on:click={handleModal}> Spartan + </button>
+			<button on:click={handleModal}> Spartan Plus </button>
 		</div>
 	</div>
 </div>
