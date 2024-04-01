@@ -3,7 +3,7 @@
 		width: 100%;
 		border-radius: 20px;
 		padding: 22px;
-		background-color: #fafafa;
+		background-color: #fafaf6;
 		display: flex;
 		flex-direction: column;
 		position: relative;
@@ -21,7 +21,7 @@
 	}
 	.heading {
 		font-size: 1.5rem;
-		font-weight: 700;
+		font-weight: 600;
 	}
 	.sub--heading {
 		display: flex;
@@ -32,24 +32,16 @@
 		font-weight: 600;
 	}
 
-	.ads--body {
-		display: flex;
-		flex-direction: row;
-		align-items: center;
-		justify-content: space-between;
-		padding-top: 90px;
-		position: unset;
-		left: 0;
-		bottom: 0;
-	}
 	.ads--content {
 		display: flex;
 		flex-direction: row;
 		gap: 8px;
 	}
-	.social--media {
-		font-size: 1.5rem;
-		font-weight: 600;
+	.ads--body {
+		padding-top: 90px;
+		position: unset;
+		left: 0;
+		bottom: 0;
 	}
 	.ads--btn {
 		display: flex;
@@ -63,8 +55,8 @@
 		font-size: 1rem;
 		font-weight: 500;
 		cursor: pointer;
-		color: #171717;
-		background-color: #afe67e;
+		color: #e7f161;
+		background-color: #171717;
 	}
 </style>
 
@@ -74,21 +66,20 @@
 
 <div class="ads--card">
 	<div class="ads--header">
-		<p class="heading">Byoi Data Bundles</p>
-
-		<div class="sub--heading">
-			<p class="sponsored--ads">Sponsored Ads •</p>
-			<p>for 30 days</p>
+		<div class="ads--content">
+			<img {src} alt="display pic" />
+			<div>
+				<p class="heading">Promote your business</p>
+				<div class="sub--heading">
+					<p class="sponsored--ads">Sponsored •</p>
+					<p>¢ 0.00 for 30 days</p>
+				</div>
+			</div>
 		</div>
 	</div>
 	<div class="ads--body">
-		<div class="ads--content">
-			<img {src} alt="display pic" />
-			<div class="ads--social">
-				<div class="social--media">Twitter</div>
-				<div>@SpartanOdx</div>
-			</div>
-		</div>
-		<a class="ads--btn" href="http://x.com/SpartanOdx"> Boost Ad </a>
+		<a class="ads--btn" href="http://x.com/SpartanOdx">
+			Give your business a push →
+		</a>
 	</div>
 </div>
