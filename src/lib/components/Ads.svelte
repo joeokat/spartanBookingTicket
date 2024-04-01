@@ -89,6 +89,6 @@
 				<div>@SpartanOdx</div>
 			</div>
 		</div>
-		<a class="ads--btn" href="http://x.com/SpartanOdx"> DM For Promo </a>
+		<a class="ads--btn" href="http://x.com/SpartanOdx"> Boost Ad </a>
 	</div>
 </div>
