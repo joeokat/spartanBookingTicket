@@ -1,6 +1,6 @@
 <style>
 	.ads--card {
-		width: 100%;
+		width: 398px;
 		border-radius: 20px;
 		padding: 22px;
 		background-color: #fafaf6;
