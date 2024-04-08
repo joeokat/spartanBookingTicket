@@ -59,7 +59,7 @@
 			{/if}
 
 			{#if subscribed_value}
-				<h3 class="vipOdds"> B3BR51P 👏🏽 </h3>
+				<h3 class="vipOdds"> B3DPH59 👏🏽 </h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
 				subscription is valid until ticket is won
