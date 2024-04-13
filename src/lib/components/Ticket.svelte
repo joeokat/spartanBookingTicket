@@ -52,14 +52,14 @@
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				MSport:<br /> <strong> Booking Code: </strong>
+				PARIMATCH:<br /> <strong> Booking Code: </strong>
 			</p>
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value}
-				<h3 class="vipOdds"> B3DPH59 👏🏽 </h3>
+				<h3 class="vipOdds"> VDKSN7VX 👏🏽 </h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
 				subscription is valid until ticket is won
