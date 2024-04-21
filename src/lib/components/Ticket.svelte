@@ -40,19 +40,19 @@
 
 		<div class="number-ofBet">
 			<small>Outcome</small>
-			<p>3</p>
+			<p>8</p>
 		</div>
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>3.0</p>
+			<p>7.35</p>
 		</div>
 	</div>
 
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				SportyBet:<br /> <strong> Booking Code: </strong>
+				SportyBet<br /> <strong> Booking Code: </strong>
 			</p>
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
