@@ -44,8 +44,8 @@
 	{/if}
 
 	<div class="sectionY">
-		<Ads />
 		<SpartanPlus handleModal={showModal} />
+		<Ads />
 		<Ticket handleModal={showModal} />
 	</div>
 	<Terms />

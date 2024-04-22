@@ -69,17 +69,15 @@
 		<div class="ads--content">
 			<img {src} alt="display pic" />
 			<div>
-				<p class="heading">Promote your business</p>
+				<p class="heading">Get More Sales from X</p>
 				<div class="sub--heading">
-					<p class="sponsored--ads">Sponsored •</p>
-					<p>¢ 0.00 for 30 days</p>
+					<p class="sponsored--ads">Spartan Ads •</p>
+					<p>¢50 For 30 Days</p>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="ads--body">
-		<a class="ads--btn" href="http://x.com/SpartanOdx">
-			Give your business a push →
-		</a>
+		<a class="ads--btn" href="http://x.com/SpartanOdx"> Get Engagements </a>
 	</div>
 </div>
