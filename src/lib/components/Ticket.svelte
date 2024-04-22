@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<small>Ticket Price</small>
-			<p>¢25</p>
+			<p> ¢50 / Month </p>
 		</div>
 		<div class="label">Hot 🔥</div>
 	</div>
@@ -40,26 +40,26 @@
 
 		<div class="number-ofBet">
 			<small>Outcome</small>
-			<p>3</p>
+			<p>10~30</p>
 		</div>
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>3.0</p>
+			<p>100</p>
 		</div>
 	</div>
 
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				Sporty:<br /> <strong> Booking Code: </strong>
+				Msport<br /> <strong> Booking Code: </strong>
 			</p>
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value}
-				<h3 class="vipOdds"> 8FD327 👏🏽 </h3>
+				<h3 class="vipOdds"> B3HAQEK 👏🏽 </h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
 				subscription is valid until ticket is won
