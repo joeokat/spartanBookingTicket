@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<small>Ticket Price</small>
-			<p>¢25</p>
+			<p>¢50 <span style="font-size:0.65rem;>/Month</span></p>
 		</div>
 		<div class="label">Hot 🔥</div>
 	</div>
@@ -40,19 +40,19 @@
 
 		<div class="number-ofBet">
 			<small>Outcome</small>
-			<p>8</p>
+			<p>10~30</p>
 		</div>
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>7.35</p>
+			<p>100</p>
 		</div>
 	</div>
 
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				SportyBet<br /> <strong> Booking Code: </strong>
+				Msport<br /> <strong> Booking Code: </strong>
 			</p>
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
