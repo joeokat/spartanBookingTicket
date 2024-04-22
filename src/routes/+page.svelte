@@ -45,7 +45,7 @@
 
 	<div class="sectionY">
 		<SpartanPlus handleModal={showModal} />
-		<Ads />
+		<!-- <Ads /> -->
 		<Ticket handleModal={showModal} />
 	</div>
 	<Terms />
