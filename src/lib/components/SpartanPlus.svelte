@@ -10,7 +10,7 @@
 		<img class="sportyPlayer" alt="" src="/sportyImg.png" />
 		<div class="spartanVIP">
 			<div>Subscribe to Premium Odds</div>
-			<button on:click={handleModal}> Premium+ </button>
+			<button on:click={handleModal}> Premium + </button>
 		</div>
 	</div>
 </div>
