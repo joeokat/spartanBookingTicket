@@ -58,6 +58,12 @@
 		color: #e7f161;
 		background-color: #171717;
 	}
+
+	@media only screen and (max-width: 600px) {
+		.ads--card {
+			width: 100%;
+		}
+	}
 </style>
 
 <script>
