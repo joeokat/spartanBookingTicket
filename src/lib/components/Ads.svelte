@@ -63,12 +63,6 @@
 		.ads--card {
 			width: 100%;
 		}
-		.ads--header {
-			width: 100%;
-		}
-		.ads--content {
-			width: 100%;
-		}
 	}
 </style>
 
