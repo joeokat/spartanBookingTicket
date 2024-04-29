@@ -63,6 +63,10 @@
 		.ads--card {
 			width: 100%;
 		}
+		.heading {
+			font-size: 1 rem;
+			font-weight: 600;
+		}
 	}
 </style>
 
