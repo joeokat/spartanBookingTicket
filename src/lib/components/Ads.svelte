@@ -75,7 +75,7 @@
 		<div class="ads--content">
 			<img {src} alt="display pic" />
 			<div>
-				<p class="heading">Get More Sales</p>
+				<p class="heading">Drive More Sales</p>
 				<div class="sub--heading">
 					<p class="sponsored--ads">Spartan Ads •</p>
 					<p>¢50 For 30 Days</p>
