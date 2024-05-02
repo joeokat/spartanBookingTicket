@@ -8,7 +8,7 @@
 		width: 398px;
 		border-radius: 20px;
 		padding: 22px;
-
+		margin-bottom: 14px;
 		color: #e4eaec;
 		background-color: #09a39e;
 	}
@@ -32,7 +32,7 @@
 		font-weight: 600;
 		text-decoration: none;
 		padding: 12px;
-		border-radius: 12px;
+		border-radius: 22px;
 		color: #ffffff;
 		background-color: #f04c44;
 	}
