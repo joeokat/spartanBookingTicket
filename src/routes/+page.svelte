@@ -5,6 +5,7 @@
 	import Ticket from '$lib/components/Ticket.svelte'
 	import Ads from '$lib/components/Ads.svelte'
 	import { subscribed } from '../stores.js'
+	import Bet22 from '$lib/components/Bet22.svelte'
 
 	let subscribed_value
 
@@ -47,6 +48,7 @@
 		<SpartanPlus handleModal={showModal} />
 		<Ads />
 		<Ticket handleModal={showModal} />
+		<Bet22 />
 	</div>
 	<Terms />
 </main>
