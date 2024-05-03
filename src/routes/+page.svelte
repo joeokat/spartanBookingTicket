@@ -46,9 +46,9 @@
 
 	<div class="sectionY">
 		<!-- <Ads /> -->
+		<Bet22 />
 		<SpartanPlus handleModal={showModal} />
 		<Ticket handleModal={showModal} />
-		<Bet22 />
 	</div>
 	<Terms />
 </main>
