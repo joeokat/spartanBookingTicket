@@ -8,7 +8,6 @@
 		width: 398px;
 		border-radius: 20px;
 		padding: 22px;
-		margin-bottom: 14px;
 		color: #e4eaec;
 		background-color: #09a39e;
 	}
