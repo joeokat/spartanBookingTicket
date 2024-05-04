@@ -55,10 +55,12 @@
 <div class="promo-code">
 	<div class="row">
 		<img {src} alt="" />
-		<p class="message">Register and Receive ¢1,500 Bonus Right Now.</p>
+		<p class="message">
+			Register and Receive up to ¢1,500 Bonus and Free 22Bet Odds Right Now
+		</p>
 	</div>
 
 	<a href="https://welcome.toptrendyinc.com/redirect.aspx?pid=91720&bid=1639">
-		SIGN UP
+		REGISTER HERE
 	</a>
 </div>
