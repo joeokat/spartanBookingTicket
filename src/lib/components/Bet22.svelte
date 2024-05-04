@@ -8,21 +8,24 @@
 		border-radius: 20px;
 		padding: 22px;
 		color: #e4eaec;
-		background-color: #09a39e;
+		background-color: #066066;
+	}
+	.row {
+		display: flex;
 	}
 	img {
-		width: 80px;
-		height: 80px;
+		width: 52px;
+		height: 52px;
 	}
 	.message {
-		text-align: center;
+		font-weight: 600;
 		font-size: larger;
-		margin-bottom: 18px;
+		margin: 0 0 18px 16px;
 		line-height: 32px;
 	}
 	span {
-		background-color: #2d787f;
-		padding: 0 10px;
+		background-color: seagreen;
+		padding: 5px 10px;
 		border-radius: 8px;
 	}
 	a {
@@ -50,13 +53,15 @@
 </script>
 
 <div class="promo-code">
-	<img {src} alt="" />
-	<p class="message">
-		Create an account on 22BET and Get 200% welcome bonus up to ¢1,000 with
-		Promo Code: <span>JoeOkat</span>
-	</p>
+	<div class="row">
+		<img {src} alt="" />
+		<p class="message">
+			Sign up and get 200% welcome bonus up to ¢1,000. Promo Code:
+			<span>JoeOkat</span>
+		</p>
+	</div>
 
 	<a href="https://welcome.toptrendyinc.com/redirect.aspx?pid=91720&bid=1639">
-		Get Bonus + Free Odds
+		SIGN UP
 	</a>
 </div>
