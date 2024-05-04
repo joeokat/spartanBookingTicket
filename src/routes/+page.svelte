@@ -45,10 +45,10 @@
 	{/if}
 
 	<div class="sectionY">
-		<!-- <Ads /> -->
 		<Bet22 />
 		<SpartanPlus handleModal={showModal} />
 		<Ticket handleModal={showModal} />
+		<Ads />
 	</div>
 	<Terms />
 </main>
