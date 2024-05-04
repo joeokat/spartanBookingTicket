@@ -56,7 +56,7 @@
 	<div class="row">
 		<img {src} alt="" />
 		<p class="message">
-			Register and Receive up to ¢1,500 Bonus and Free 22Bet Odds Right Now
+			Receive up to ¢1,500 Bonus and 22Bet Free Odds Right Now
 		</p>
 	</div>
 
