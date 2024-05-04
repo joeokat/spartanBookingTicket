@@ -23,11 +23,11 @@
 		margin: 0 0 18px 16px;
 		line-height: 32px;
 	}
-	span {
+	/* span {
 		background-color: seagreen;
 		padding: 5px 10px;
 		border-radius: 8px;
-	}
+	} */
 	a {
 		display: flex;
 		align-items: center;
@@ -55,10 +55,7 @@
 <div class="promo-code">
 	<div class="row">
 		<img {src} alt="" />
-		<p class="message">
-			Sign up and get 200% welcome bonus up to ¢1,000. Promo Code:
-			<span>JoeOkat</span>
-		</p>
+		<p class="message">Sign up and get 200% welcome bonus up to ¢1,000.</p>
 	</div>
 
 	<a href="https://welcome.toptrendyinc.com/redirect.aspx?pid=91720&bid=1639">
