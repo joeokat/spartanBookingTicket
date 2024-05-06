@@ -64,7 +64,7 @@
 			width: 100%;
 		}
 		.heading {
-			font-size: 1rem;
+			font-size: 1.3rem;
 			font-weight: 500;
 		}
 	}
@@ -88,6 +88,6 @@
 		</div>
 	</div>
 	<div class="ads--body">
-		<a class="ads--btn" href="http://x.com/SpartanOdx"> Promote Business </a>
+		<a class="ads--btn" href="http://x.com/SpartanOdx"> ⚡ Promote Business </a>
 	</div>
 </div>
