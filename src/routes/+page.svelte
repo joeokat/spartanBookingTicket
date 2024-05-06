@@ -29,11 +29,11 @@
 		<Modal showModal={show} handleClose={closeModal}>
 			<h3 class="heading">Spartan +</h3>
 			<hr />
-			<p class="description">Support us daily to access premium odds.</p>
+			<p class="description">Tip us daily to access premium odds.</p>
 			<p class="termss">Terms & Conditions Apply</p>
 			<div class="dialog-btns">
 				<a href="/subscribe">
-					<button class="btn-subscribe"> subscribe </button>
+					<button class="btn-subscribe"> Tip Jar </button>
 				</a>
 				<button class="btn-cancel" on:click={closeModal}> Cancel </button>
 			</div>
