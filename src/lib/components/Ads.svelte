@@ -79,7 +79,7 @@
 		<div class="ads--content">
 			<img {src} alt="display pic" />
 			<div>
-				<p class="heading">Repeat sales with</p>
+				<p class="heading">Repeat Sales With</p>
 				<div class="sub--heading">
 					<p class="sponsored--ads">Spartan Ads •</p>
 					<p>¢30/Month</p>
