@@ -64,8 +64,8 @@
 			width: 100%;
 		}
 		.heading {
-			font-size: 0.7rem;
-			font-weight: 600;
+			font-size: 1rem;
+			font-weight: 500;
 		}
 	}
 </style>
