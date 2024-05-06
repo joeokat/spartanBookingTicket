@@ -64,7 +64,7 @@
 			width: 100%;
 		}
 		.heading {
-			font-size: 1 rem;
+			font-size: 0.7rem;
 			font-weight: 600;
 		}
 	}
@@ -79,15 +79,15 @@
 		<div class="ads--content">
 			<img {src} alt="display pic" />
 			<div>
-				<p class="heading">Drive More Sales</p>
+				<p class="heading">Get more sales</p>
 				<div class="sub--heading">
-					<p class="sponsored--ads">Spartan Ads •</p>
-					<p>¢50 For 30 Days</p>
+					<p class="sponsored--ads">with Spartan Ads •</p>
+					<p>¢30 per month</p>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="ads--body">
-		<a class="ads--btn" href="http://x.com/SpartanOdx"> Promote </a>
+		<a class="ads--btn" href="http://x.com/SpartanOdx"> Promote Business </a>
 	</div>
 </div>
