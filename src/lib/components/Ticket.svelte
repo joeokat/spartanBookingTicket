@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<small>Ticket Price</small>
-			<p>¢10</p>
+			<p>¢14</p>
 		</div>
 		<div class="label">Hot 🔥</div>
 	</div>
@@ -45,7 +45,7 @@
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>3</p>
+			<p>5</p>
 		</div>
 	</div>
 
@@ -59,7 +59,7 @@
 			{/if}
 
 			{#if subscribed_value}
-				<h3 class="vipOdds">HzwC60 👏🏽</h3>
+				<h3 class="vipOdds">6041Yj 👏🏽</h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
 				subscription is valid until ticket is won
