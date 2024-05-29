@@ -52,14 +52,14 @@
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				22BET<br /> <strong> Ghana Booking Code: </strong>
+				Ghana 22BET <br /> <strong> Booking Code: </strong>
 			</p>
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value}
-				<h3 class="vipOdds">xkp5Ks 👏🏽</h3>
+				<h3 class="vipOdds">Uv5dKt 👏🏽</h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
 				subscription is valid until ticket is won
