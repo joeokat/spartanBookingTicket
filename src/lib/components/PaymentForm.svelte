@@ -73,7 +73,7 @@
 		</div>
 
 		<div class="form-submit">
-			<button type="submit"> Tip Team SpartanOdx </button>
+			<button type="submit"> Subscribe to VIP </button>
 		</div>
 	</form>
 </div>
