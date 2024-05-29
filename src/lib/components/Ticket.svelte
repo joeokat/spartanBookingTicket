@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<small>Ticket Price</small>
-			<p>¢14</p>
+			<p>¢15</p>
 		</div>
 		<div class="label">Hot 🔥</div>
 	</div>
@@ -40,7 +40,7 @@
 
 		<div class="number-ofBet">
 			<small>Outcome</small>
-			<p>4</p>
+			<p>3~8</p>
 		</div>
 
 		<div class="total-odds">
