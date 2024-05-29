@@ -29,18 +29,18 @@
 		<Modal showModal={show} handleClose={closeModal}>
 			<h3 class="heading">Spartan +</h3>
 			<hr />
-			<p class="description">Tip us daily to access premium odds.</p>
+			<p class="description">Subscribe daily to access VIP odds.</p>
 			<p class="termss">Terms & Conditions Apply</p>
 			<div class="dialog-btns">
 				<a href="/subscribe">
-					<button class="btn-subscribe"> Tip Jar </button>
+					<button class="btn-subscribe"> Get VIP </button>
 				</a>
 				<button class="btn-cancel" on:click={closeModal}> Cancel </button>
 			</div>
 		</Modal>
 	{:else}
 		<Modal showModal={show} handleClose={closeModal}>
-			<div>You are already subscribed to Spartan +</div>
+			<div>You are already subscribed to VIP</div>
 		</Modal>
 	{/if}
 
