@@ -62,7 +62,7 @@
 				<h3 class="vipOdds">Uv5dKt 👏🏽</h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
-				Subscription + recoveries is valid for a week
+				subscription plus recoveries are valid for a week
 			</p>
 		</div>
 	</div>
