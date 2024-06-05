@@ -56,7 +56,7 @@
 	<div class="row">
 		<img {src} alt="" />
 		<p class="message">
-			Receive up to ¢1,500 Bonus and Free Odds Right Now
+			Get up to ¢1,500 bonus and 3 fixed odds when you sign up now!
 		</p>
 	</div>
 
