@@ -56,7 +56,7 @@
 	<div class="row">
 		<img {src} alt="" />
 		<p class="message">
-			Get up to ¢1,500 bonus and 3 fixed odds when you sign up now!
+			Get up to ¢1,500 bonus and 3 fixed odds daily when you sign up now!
 		</p>
 	</div>
 
