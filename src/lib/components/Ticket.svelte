@@ -40,12 +40,12 @@
 
 		<div class="number-ofBet">
 			<small>Outcome</small>
-			<p>3~8</p>
+			<p>5</p>
 		</div>
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>5</p>
+			<p>3</p>
 		</div>
 	</div>
 
@@ -62,7 +62,7 @@
 				<h3 class="vipOdds">Uv5dKt 👏🏽</h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
-				subscription is valid until ticket is won
+				Subscription + recoveries is valid for a week
 			</p>
 		</div>
 	</div>
