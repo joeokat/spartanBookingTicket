@@ -9,8 +9,8 @@
 		<img {src} alt="" />
 		<img class="sportyPlayer" alt="" src="/sportyImg.png" />
 		<div class="spartanVIP">
-			<div>Get VIP Odds for only $1</div>
-			<button on:click={handleModal}> Get VIP </button>
+			<div>Get VIP Fixed Odds for only $2</div>
+			<button on:click={handleModal}> Subscribe </button>
 		</div>
 	</div>
 </div>
