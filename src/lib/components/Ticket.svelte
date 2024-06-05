@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<small>Ticket Price</small>
-			<p>¢15</p>
+			<p>¢25</p>
 		</div>
 		<div class="label">Hot 🔥</div>
 	</div>
