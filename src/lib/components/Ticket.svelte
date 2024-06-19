@@ -26,8 +26,10 @@
 <div class="ticket-card">
 	<div class="hot-ticket">
 		<div class="ticket-price">
-			<small>Ticket Price</small>
-			<div> <p>¢25</p>per week</div>
+			<small>🏆 Daily Ticket Price</small>
+			<div>
+				<p>¢30</p>
+			</div>
 		</div>
 		<div class="label">Hot 🔥</div>
 	</div>
@@ -40,7 +42,7 @@
 
 		<div class="number-ofBet">
 			<small>Outcome</small>
-			<p>5</p>
+			<p>3</p>
 		</div>
 
 		<div class="total-odds">
@@ -52,17 +54,17 @@
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				Ghana 22BET <br /> <strong> Booking Code: </strong>
+				VIP SELECTIONS <br /> <strong> 22BET </strong>
 			</p>
 			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value}
-				<h3 class="vipOdds">Uv5dKt 👏🏽</h3>
+				<h3 class="vipOdds">Join Spantan+ on 𝕏</h3>
 			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
-				subscription plus recoveries are valid for a week
+				subscription is valid for a month.
 			</p>
 		</div>
 	</div>

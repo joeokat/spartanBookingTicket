@@ -56,11 +56,11 @@
 	<div class="row">
 		<img {src} alt="" />
 		<p class="message">
-			Get up to ¢1,500 bonus and 3 fixed odds daily when you sign up with us!
+			🎟️ Buy daily ticket from our channel. 🍀 Register with 22BET.
 		</p>
 	</div>
 
 	<a href="https://welcome.toptrendyinc.com/redirect.aspx?pid=91720&bid=1639">
-		REGISTER HERE
+		Register Here!
 	</a>
 </div>

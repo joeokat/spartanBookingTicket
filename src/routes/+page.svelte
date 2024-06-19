@@ -3,7 +3,7 @@
 	import SpartanPlus from '$lib/components/SpartanPlus.svelte'
 	import Terms from '$lib/components/Terms.svelte'
 	import Ticket from '$lib/components/Ticket.svelte'
-	
+
 	import { subscribed } from '../stores.js'
 	import Bet22 from '$lib/components/Bet22.svelte'
 
@@ -29,7 +29,7 @@
 		<Modal showModal={show} handleClose={closeModal}>
 			<h3 class="heading">Spartan +</h3>
 			<hr />
-			<p class="description">Subscribe daily to access VIP odds.</p>
+			<p class="description">Subscribe Monthly to access VIP Games.</p>
 			<p class="termss">Terms & Conditions Apply</p>
 			<div class="dialog-btns">
 				<a href="/subscribe">
@@ -40,12 +40,11 @@
 		</Modal>
 	{:else}
 		<Modal showModal={show} handleClose={closeModal}>
-			<div>You are already subscribed to VIP</div>
+			<div>You are already subscribed to Spartan+</div>
 		</Modal>
 	{/if}
 
 	<div class="sectionY">
-		
 		<Bet22 />
 		<SpartanPlus handleModal={showModal} />
 		<Ticket handleModal={showModal} />

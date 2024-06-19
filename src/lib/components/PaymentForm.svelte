@@ -17,7 +17,7 @@
 	}
 
 	function payWithPaystack() {
-		const amount = 25
+		const amount = 150
 
 		let handler = PaystackPop.setup({
 			key: 'pk_live_2c04bc556efbce972d6a94ea765e407d7c703faf',

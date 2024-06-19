@@ -9,7 +9,7 @@
 		<img {src} alt="" />
 		<img class="sportyPlayer" alt="" src="/sportyImg.png" />
 		<div class="spartanVIP">
-			<div>Fixed VIP Odds For Only $2</div>
+			<div>Get Monthly VIP Odds on 𝕏</div>
 			<button on:click={handleModal}> Subscribe </button>
 		</div>
 	</div>
