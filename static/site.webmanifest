@@ -19,8 +19,10 @@
     "start_url": ".",
 	"orientation": "portrait",
 	"lang": "en",
+
 	"theme_color": "#E7F161",
 	"background_color": "#151515",
+
 	"display": "standalone",
 	"display_override": [
  		 	"window-controls-overlay",
@@ -30,23 +32,12 @@
 
 	"screenshots" : [
 		{
-			"src": "screenshot.jpg",
+			"src": "/screenshot.jpg",
 			"sizes": "1280x720",
-			"type": "image/jpg",
-			"platform": "wide"
+			"type": "image/jpg"
 		}
 		],
-	"related_applications": [
-		{
-			"platform": "windows",
-			"url": "https://www.example-app.com",
-			"id": "example.ExampleApp"
-		},
-		{
-			"platform": "play",
-			"url": "https://www.example-app-2.com"
-		}
-		],
+	
 	"categories": ["games", "sports", "gambling"]
 
 }
