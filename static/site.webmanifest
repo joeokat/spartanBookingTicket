@@ -1,5 +1,6 @@
 {
-	"name": "Spartan Odx",
+	"id": "1.0.0",
+	"name": "Spartan Tips",
 	"short_name": "SpartanOdx",
 	"icons": [
 		{
@@ -13,8 +14,21 @@
 			"type": "image/png"
 		}
 	],
+	"Description": "",
     "start_url": ".",
+	"Orientation": "portrait",
+	"language": "English",
 	"theme_color": "#E7F161",
 	"background_color": "#151515",
-	"display": "standalone"
+	"display": "standalone",
+	"Screenshots": [
+		{
+			"src": "/android-chrome-192x192.png",
+			"type": "image/png"
+		},
+		{
+			"src": "/android-chrome-512x512.png",
+			"type": "image/png"
+		}
+	]
 }
