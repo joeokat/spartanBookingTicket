@@ -1,7 +1,21 @@
-{
-	"id": "/?homescreen=1",
-	"name": "Spartan Tips: 22Bet codes",
+{	
+	"name": "Spartan Tips: 22Bet",
 	"short_name": "SpartanOdx",
+	"Description": "Your go to application for Sports Predictions. Bet Soccer, Rugby, Tennis, MMA & MLB.",
+	"categories": ["Sports", "Betting", "Games"],
+    "start_url": ".",
+	"orientation": "portrait",
+	"lang": "en",
+	"theme_color": "#E7F161",
+	"background_color": "#151515",
+	"display": "standalone",
+
+	"display_override": [
+ 		 	"window-controls-overlay",
+  			"standalone",
+  			"browser"
+	],
+
 	"icons": [
 		{
 			"src": "/android-chrome-192x192.png",
@@ -15,29 +29,11 @@
 		}
 	],
 
-	"Description": "Spartan Odx is your go to application for Sports Tips & 22BET Booking Codes",
-    "start_url": ".",
-	"orientation": "portrait",
-	"lang": "en",
-
-	"theme_color": "#E7F161",
-	"background_color": "#151515",
-
-	"display": "standalone",
-	"display_override": [
- 		 	"window-controls-overlay",
-  			"standalone",
-  			"browser"
-		],
-
 	"screenshots" : [
 		{
 			"src": "/screenshot.jpg",
-			"sizes": "1280x720",
+			"sizes": "450x974",
 			"type": "image/jpg"
 		}
-		],
-	
-	"categories": ["games", "sports", "gambling"]
-
+	]
 }
