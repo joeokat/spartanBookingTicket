@@ -56,7 +56,7 @@
 	<div class="row">
 		<img {src} alt="" />
 		<p class="message">
-			🍀 Register with 22BET & Get daily ticket from our channel.
+			Register with 22BET & Get daily ticket from our Telegram Channel.
 		</p>
 	</div>
 
