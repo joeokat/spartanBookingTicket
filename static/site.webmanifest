@@ -31,7 +31,7 @@
 
 	"screenshots" : [
 		{
-			"src": "/screenshot.jpg",
+			"src": "/screenshot.png",
 			"sizes": "450x974",
 			"type": "image/jpg"
 		}
