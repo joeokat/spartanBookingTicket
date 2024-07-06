@@ -3,7 +3,7 @@
 	"short_name": "SpartanTips",
 	"lang": "en",
 	"appid": "app.vercel.odx",
-	"description": "Your go to application for Sports Predictions. Bet Soccer, Rugby, Tennis, MMA & MLB.",
+	"description": "We are Experts at Sports Predictions. Bet on Your Favourite Sports, Soccer, Rugby, Tennis, MMA & MLB.",
 	"categories": ["Sports", "Betting", "Games"],
     "start_url": ".",
 	"orientation": "portrait",
