@@ -1,11 +1,13 @@
 {	
-	"name": "Spartan Tips: 22Bet",
-	"short_name": "SpartanOdx",
-	"Description": "Your go to application for Sports Predictions. Bet Soccer, Rugby, Tennis, MMA & MLB.",
+	"name": "Spartan Tips on 22Bet",
+	"short_name": "SpartanTips",
+	"lang": "en",
+	"appid": "app.vercel.odx",
+	"description": "Your go to application for Sports Predictions. Bet Soccer, Rugby, Tennis, MMA & MLB.",
 	"categories": ["Sports", "Betting", "Games"],
     "start_url": ".",
 	"orientation": "portrait",
-	"lang": "en",
+	
 	"theme_color": "#E7F161",
 	"background_color": "#151515",
 	"display": "standalone",
@@ -36,4 +38,8 @@
 			"type": "image/jpg"
 		}
 	]
+
+	
+
+
 }
