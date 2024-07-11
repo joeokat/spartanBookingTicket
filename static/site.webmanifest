@@ -2,13 +2,13 @@
 	"name": "Spartan Tips on 22Bet",
 	"short_name": "SpartanTips",
 	"lang": "en",
-	"appid": "app.vercel.odx",
+	"appid": "/",
 	"description": "We are Experts at Sports Predictions. Bet on Your Favourite Sports, Soccer, Rugby, Tennis, MMA & MLB.",
 	"categories": ["Sports", "Betting", "Games"],
     "start_url": ".",
 	"orientation": "portrait",
 	
-	"theme_color": "#E7F161",
+	"theme_color": "#101010",
 	"background_color": "#151515",
 	"display": "standalone",
 
