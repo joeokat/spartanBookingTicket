@@ -1,6 +1,6 @@
 {	
 	"name": "Spartan Tips",
-	"short_name": "22BET Tips",
+	"short_name": "Spartan Tips on 22BET",
 	"lang": "en",
 	"appid": "/",
 	"description": "We are Experts at Sports Predictions. Bet on Your Favourite Sports, Soccer, Rugby, Tennis, MMA & MLB.",
@@ -8,8 +8,8 @@
     "start_url": ".",
 	"orientation": "portrait",
 	
-	"theme_color": "#101010",
-	"background_color": "#151515",
+	"theme_color": "#000000",
+	"background_color": "#000000",
 	"display": "standalone",
 
 	"display_override": [
