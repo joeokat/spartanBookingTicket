@@ -7,7 +7,7 @@
 		subscribed_value = value
 	})
 
-	export let handleModal
+	// export let handleModal
 
 	const src = '/barCodeImg.png'
 
@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<div>
-				<p class="ticket-price">FREE DAILY TIPS</p>
+				<p class="ticket-price">¢0 DAILY TIPS</p>
 			</div>
 		</div>
 		<div class="label">🔥 Hot</div>

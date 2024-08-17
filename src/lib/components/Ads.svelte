@@ -89,6 +89,6 @@
 		</div>
 	</div>
 	<div class="ads--body">
-		<a class="ads--btn" href="http://x.com/SpartanOdx"> ⚡ Get Recognised </a>
+		<a class="ads--btn" href="http://x.com/SpartanOdx"> ⚡ Boost on 𝕏 </a>
 	</div>
 </div>

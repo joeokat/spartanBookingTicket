@@ -1,3 +1,3 @@
 <div class="payment-success">
-	<div class="message"> Thank you for supporting us 🏆 </div>
+	<div class="message">Let's Get Cooking!!! 🏆</div>
 </div>
