@@ -4,7 +4,6 @@
 	background-color: a.color(white);
 	width: 398px;
 	border-radius: 33px;
-	margin-bottom: 14px;
 	flex-direction: column;
 	display: flex;
 	position: unset;
@@ -15,6 +14,7 @@
 	align-items: first baseline;
 	justify-content: space-between;
 	margin-top: 24px;
+	margin-bottom: 24px;
 	padding-bottom: 15px;
 	padding: 0 24px;
 }

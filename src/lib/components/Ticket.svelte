@@ -28,7 +28,7 @@
 		<div class="label">🔥 Hot</div>
 		<div class="ticket-price">
 			<div>
-				<p>¢50 /<small> Month</small></p>
+				<div class="label">🔥 Hot</div>
 			</div>
 		</div>
 	</div>
