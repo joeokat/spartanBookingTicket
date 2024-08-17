@@ -53,14 +53,14 @@
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				DAILY SUSU [ 22BET ] <br /> <strong> CODE:</strong>
+				WEEKLY SUSU [ SPORTY ] <br /> <strong> CODE:</strong>
 			</p>
 			<!-- {#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value} -->
-			<h3 class="vipOdds">In-play</h3>
+			<h3 class="vipOdds">DFFE618</h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
 				VIP subscriptions are valid for a month.
