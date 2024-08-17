@@ -25,13 +25,12 @@
 
 <div class="ticket-card">
 	<div class="hot-ticket">
+		<div class="label">🔥 Hot</div>
 		<div class="ticket-price">
-			<small>🏆 Daily Ticket Price</small>
 			<div>
-				<p>¢30</p>
+				<p>¢50 /<small> Month</small></p>
 			</div>
 		</div>
-		<div class="label">Hot 🔥</div>
 	</div>
 
 	<div class="odds">
@@ -47,21 +46,21 @@
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>3</p>
+			<p>1.5+</p>
 		</div>
 	</div>
 
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				Follow SpantanOdx on 𝕏 for more<br /> <strong> 22BET CODES</strong>
+				DAILY SUSU [ 22BET ] <br /> <strong> CODE:</strong>
 			</p>
 			<!-- {#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value} -->
-			<h3 class="vipOdds">Join Telegram Channel Now</h3>
+			<h3 class="vipOdds">In-play</h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
 				VIP subscriptions are valid for a month.
