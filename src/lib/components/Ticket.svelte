@@ -25,12 +25,12 @@
 
 <div class="ticket-card">
 	<div class="hot-ticket">
-		<div class="label">🔥 Hot</div>
 		<div class="ticket-price">
 			<div>
-				<div class="label">🔥 Hot</div>
+				<p class="ticket-price">FREE DAILY TIPS</p>
 			</div>
 		</div>
+		<div class="label">🔥 Hot</div>
 	</div>
 
 	<div class="odds">
