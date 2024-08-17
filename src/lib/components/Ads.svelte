@@ -80,15 +80,15 @@
 		<div class="ads--content">
 			<img {src} alt="display pic" />
 			<div>
-				<p class="heading">Repeat Sales With</p>
+				<p class="heading">Promote Your Business</p>
 				<div class="sub--heading">
 					<p class="sponsored--ads">Spartan Ads •</p>
-					<p>¢30/Month</p>
+					<p>¢250/mo</p>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="ads--body">
-		<a class="ads--btn" href="http://x.com/SpartanOdx"> ⚡ Promote Business </a>
+		<a class="ads--btn" href="http://x.com/SpartanOdx"> ⚡ Get Recognised </a>
 	</div>
 </div>

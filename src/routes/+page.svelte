@@ -3,7 +3,7 @@
 	import SpartanPlus from '$lib/components/SpartanPlus.svelte'
 	import Terms from '$lib/components/Terms.svelte'
 	import Ticket from '$lib/components/Ticket.svelte'
-	// import Ads from '$lib/components/Ads.svelte'
+	import Ads from '$lib/components/Ads.svelte'
 	import { subscribed } from '../stores.js'
 	import Bet22 from '$lib/components/Bet22.svelte'
 
@@ -48,7 +48,7 @@
 		<Bet22 />
 		<Ticket handleModal={showModal} />
 		<SpartanPlus handleModal={showModal} />
-		<!-- <Ads /> -->
+		<Ads />
 	</div>
 	<Terms />
 </main>
