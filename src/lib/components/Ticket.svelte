@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<div>
-				<p class="ticket-price">¢0 DAILY TIPS</p>
+				<p class="ticket-price">¢0 Tips</p>
 			</div>
 		</div>
 		<div class="label">🔥 Hot</div>
