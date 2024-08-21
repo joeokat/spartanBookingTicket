@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<div>
-				<p class="ticket-price">¢0 Tips</p>
+				<p class="ticket-price"> $0 </p>
 			</div>
 		</div>
 		<div class="label">🔥 Hot</div>
@@ -46,7 +46,7 @@
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>1.5+</p>
+			<p>6+</p>
 		</div>
 	</div>
 
@@ -63,7 +63,7 @@
 			<h3 class="vipOdds">DFFE618</h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
-				VIP subscriptions are valid for a month.
+				subscriptions are valid for a month.
 			</p>
 		</div>
 	</div>
