@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<div>
-				<p class="ticket-price"> $0 </p>
+				<p class="ticket-price"> ¢ 0 </p>
 			</div>
 		</div>
 		<div class="label">🔥 Hot</div>
@@ -41,7 +41,7 @@
 
 		<div class="number-ofBet">
 			<small>Outcome</small>
-			<p>3</p>
+			<p>4</p>
 		</div>
 
 		<div class="total-odds">
@@ -53,14 +53,14 @@
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				WEEKLY SUSU [ SPORTY ] <br /> <strong> CODE:</strong>
+				DAILY ROLLOVER [ 22BET ] <br /> <strong> CODE:</strong>
 			</p>
 			<!-- {#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value} -->
-			<h3 class="vipOdds">DFFE618</h3>
+			<h3 class="vipOdds">6y2kbX</h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
 				subscriptions are valid for a month.
