@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<div>
-				<p class="ticket-price"> ¢ 0 </p>
+				<p class="ticket-price"> ¢0 </p>
 			</div>
 		</div>
 		<div class="label">🔥 Hot</div>
@@ -46,25 +46,25 @@
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>6+</p>
+			<p>3+</p>
 		</div>
 	</div>
 
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				DAILY ROLLOVER [ 22BET ] <br /> <strong> CODE:</strong>
+				MID-NIGHT [ 22BET ] <br /> <strong> CODE:</strong>
 			</p>
 			<!-- {#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value} -->
-			<h3 class="vipOdds">6y2kbX</h3>
+			<h3 class="vipOdds">KYCADM</h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
-				subscriptions are valid for a month.
-			</p>
+			<!-- subscriptions are valid for a month.
+			</p> -->
 		</div>
 	</div>
 </div>
