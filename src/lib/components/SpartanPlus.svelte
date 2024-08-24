@@ -9,7 +9,7 @@
 		<img {src} alt="" />
 		<img class="sportyPlayer" alt="" src="/sportyImg.png" />
 		<div class="spartanVIP">
-			<div> Monthly VIP Club </div>
+			<div> Subscribe to Monthly VIP </div>
 			<button on:click={handleModal}> Join Now </button>
 		</div>
 	</div>
