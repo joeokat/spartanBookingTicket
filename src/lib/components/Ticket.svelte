@@ -27,10 +27,12 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<div>
-				<p class="ticket-price"> ¢0 </p>
+     <div class="label">🔥 Hot</div>
+<--! <p class="ticket-price"> ¢0 </p> -->
 			</div>
 		</div>
-		<div class="label">🔥 Hot</div>
+		<div 
+style="background: green; padding:1rem; text-align: center"> WON 🔥 </div>
 	</div>
 
 	<div class="odds">
