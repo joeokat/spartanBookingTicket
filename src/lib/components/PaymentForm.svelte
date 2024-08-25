@@ -17,7 +17,7 @@
 	}
 
 	function payWithPaystack() {
-		const amount = 50
+		const amount = 25
 
 		let handler = PaystackPop.setup({
 			key: 'pk_live_2c04bc556efbce972d6a94ea765e407d7c703faf',
@@ -73,7 +73,7 @@
 		</div>
 
 		<div class="form-submit">
-			<button type="submit"> Subscribe to VIP for ¢50</button>
+			<button type="submit"> Subscribe to VIP for ¢25</button>
 		</div>
 	</form>
 </div>
