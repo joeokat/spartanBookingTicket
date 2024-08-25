@@ -65,8 +65,8 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 			<h3 class="vipOdds"> 189EBDE </h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
-			<!-- subscriptions are valid for a month.
-			</p> -->
+			Free Odds Available @ 10 : 00 am Daily.
+			</p>
 		</div>
 	</div>
 </div>
