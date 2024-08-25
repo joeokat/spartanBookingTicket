@@ -60,7 +60,7 @@
 			{/if}
 
 			{#if subscribed_value} -->
-			<h3 class="vipOdds"> ###### </h3>
+			<h3 class="vipOdds"> 189EBDE </h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
 			<!-- subscriptions are valid for a month.
