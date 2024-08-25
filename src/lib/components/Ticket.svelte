@@ -48,7 +48,7 @@ style="background: green; padding:1rem; text-align: center"> WON 🔥 </div>
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>10</p>
+			<p>2+</p>
 		</div>
 	</div>
 
