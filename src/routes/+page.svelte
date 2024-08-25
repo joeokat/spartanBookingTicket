@@ -1,6 +1,6 @@
 <script>
 	import Modal from '$lib/components/Modal.svelte'
-	import SpartanPlus from '$lib/components/SpartanPlus.svelte'
+//	import SpartanPlus from '$lib/components/SpartanPlus.svelte'
 	import Terms from '$lib/components/Terms.svelte'
 	import Ticket from '$lib/components/Ticket.svelte'
 	import Ads from '$lib/components/Ads.svelte'
@@ -47,7 +47,7 @@
 	<div class="sectionY">
 		<Bet22 />
 		<Ticket handleModal={showModal} />
-		<SpartanPlus handleModal={showModal} />
+<!--	<SpartanPlus handleModal={showModal} /> -->
 		<Ads />
 	</div>
 	<Terms />
