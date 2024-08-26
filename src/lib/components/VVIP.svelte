@@ -80,9 +80,9 @@
 		<div class="ads--content">
 			<img {src} alt="display pic" />
 			<div>
-				<p class="heading">Stake 22Bet, Msport, 1xbet & Sporty</p>
+				<p class="heading">Stake 22Bet & Sporty</p>
 				<div class="sub--heading">
-					<p class="sponsored--ads">VIP Odds •</p>
+					<p class="sponsored--ads">VIP Odds @</p>
 					<p>¢30/mo</p>
 				</div>
 			</div>
