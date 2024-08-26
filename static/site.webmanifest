@@ -1,6 +1,6 @@
 {	
-	"name": "Spartan Tips",
-	"short_name": "Spartan Tips on 22BET",
+	"name": "Spartan Odx",
+	"short_name": "Spartan+",
 	"lang": "en",
 	"appid": "/",
 	"description": "We are Experts at Sports Predictions. Bet on Your Favourite Sports, Soccer, Rugby, Tennis, MMA & MLB.",
@@ -13,9 +13,9 @@
 	"display": "standalone",
 
 	"display_override": [
- 		 	"window-controls-overlay",
-  			"standalone",
-  			"browser"
+ 		"window-controls-overlay",
+  		"standalone",
+  		"browser"
 	],
 
 	"icons": [
