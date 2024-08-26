@@ -3,7 +3,7 @@
 		width: 398px;
 		border-radius: 20px;
 		padding: 22px;
-		/* margin-bottom: 16px; */
+		margin-bottom: 16px;
 		background-color: #fafaf6;
 		display: flex;
 		flex-direction: column;
