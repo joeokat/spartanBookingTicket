@@ -56,7 +56,7 @@
 	<div class="row">
 		<img {src} alt="" />
 		<p class="message">
-			Register with 22BET & Get daily ticket from our Telegram Channel.
+			Register with 22BET & Get daily VVIP odds from our Channels.
 		</p>
 	</div>
 
