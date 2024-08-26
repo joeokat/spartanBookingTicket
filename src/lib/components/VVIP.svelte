@@ -90,7 +90,7 @@
 	</div>
 	<div class="ads--body">
 		<a class="ads--btn" href="https://t.me/spartanplus">
-			DM Spartan+ to Subscribe ⚡
+			Subscribe to Spartan+ ⚡
 		</a>
 	</div>
 </div>
