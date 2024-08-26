@@ -55,12 +55,10 @@
 <div class="promo-code">
 	<div class="row">
 		<img {src} alt="" />
-		<p class="message">
-			Register with 22BET & Get daily VVIP odds from our Channels.
-		</p>
+		<p class="message">Register and Get Daily VIP Tips from Spartan+</p>
 	</div>
 
 	<a href="https://welcome.toptrendyinc.com/redirect.aspx?pid=91720&bid=1639">
-		Register Here!
+		Register Here
 	</a>
 </div>

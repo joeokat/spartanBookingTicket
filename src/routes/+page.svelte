@@ -1,9 +1,10 @@
 <script>
 	import Modal from '$lib/components/Modal.svelte'
-//	import SpartanPlus from '$lib/components/SpartanPlus.svelte'
+	//	import SpartanPlus from '$lib/components/SpartanPlus.svelte'
 	import Terms from '$lib/components/Terms.svelte'
 	import Ticket from '$lib/components/Ticket.svelte'
-	import Ads from '$lib/components/Ads.svelte'
+	import VVIP from '$lib/components/VVIP.svelte'
+	// import Ads from '$lib/components/Ads.svelte'
 	import { subscribed } from '../stores.js'
 	import Bet22 from '$lib/components/Bet22.svelte'
 
@@ -47,8 +48,9 @@
 	<div class="sectionY">
 		<Bet22 />
 		<Ticket handleModal={showModal} />
-<!--	<SpartanPlus handleModal={showModal} /> -->
-		<Ads />
+		<!--	<SpartanPlus handleModal={showModal} /> -->
+		<VVIP />
+		<!-- <Ads /> -->
 	</div>
 	<Terms />
 </main>
