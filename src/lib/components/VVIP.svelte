@@ -21,7 +21,7 @@
 		top: 0;
 	}
 	.heading {
-		font-size: 1.5rem;
+		font-size: 1.3rem;
 		font-weight: 600;
 	}
 	.sub--heading {
@@ -65,8 +65,8 @@
 			width: 100%;
 		}
 		.heading {
-			font-size: 1.3rem;
-			font-weight: 500;
+			font-size: 1.15rem;
+			font-weight: 600;
 		}
 	}
 </style>
@@ -80,9 +80,9 @@
 		<div class="ads--content">
 			<img {src} alt="display pic" />
 			<div>
-				<p class="heading">Receieve 22BET & SPORTY</p>
+				<p class="heading">Stake 22Bet, Msport, 1xbet & Sporty</p>
 				<div class="sub--heading">
-					<p class="sponsored--ads">VIP Tips and Odds •</p>
+					<p class="sponsored--ads">VIP Odds •</p>
 					<p>¢30/mo</p>
 				</div>
 			</div>
