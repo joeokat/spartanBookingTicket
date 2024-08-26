@@ -48,14 +48,14 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>2+</p>
+			<p>3+</p>
 		</div>
 	</div>
 
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				SPORTY ROLLOVER <br /> <strong> CODE:</strong>
+				DAILY SUSU <br /> <strong> SPORTY CODE:</strong>
 			</p>
 			<!-- {#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
