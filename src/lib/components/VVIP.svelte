@@ -4,7 +4,7 @@
 		border-radius: 20px;
 		padding: 22px;
 		/* margin-bottom: 16px; */
-		background-color: #e7f161;
+		background-color: whitesmoke;
 		display: flex;
 		flex-direction: column;
 		position: relative;
@@ -81,10 +81,10 @@
 			<img {src} alt="display pic" />
 			<div>
 				<p class="heading"> 
-Subscribe to Spartan+ </p>
+Access Spartan+ </p>
 				<div class="sub--heading">
-					<p class="sponsored--ads">VIP @</p>
-					<p>¢50/Month</p>
+					<p class="sponsored--ads">Monthly VIP @</p>
+					<p>¢50</p>
 				</div>
 			</div>
 		</div>
