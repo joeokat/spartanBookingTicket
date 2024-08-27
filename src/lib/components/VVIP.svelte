@@ -4,7 +4,7 @@
 		border-radius: 20px;
 		padding: 22px;
 		/* margin-bottom: 16px; */
-		background-color: #fafaf6;
+		background-color: #e7f161;
 		display: flex;
 		flex-direction: column;
 		position: relative;
@@ -80,17 +80,18 @@
 		<div class="ads--content">
 			<img {src} alt="display pic" />
 			<div>
-				<p class="heading">Receive 22bet and Sporty</p>
+				<p class="heading"> 
+Subscribe to Spartan+ </p>
 				<div class="sub--heading">
-					<p class="sponsored--ads">VIP Odds @</p>
-					<p>¢30/mo</p>
+					<p class="sponsored--ads">VIP @</p>
+					<p>¢50/Month</p>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="ads--body">
 		<a class="ads--btn" href="https://t.me/spartanplus">
-			Subscribe to Spartan+ ⚡
+			Subscribe Now ⚡
 		</a>
 	</div>
 </div>
