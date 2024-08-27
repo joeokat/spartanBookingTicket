@@ -31,8 +31,8 @@
 				<!-- <p class="ticket-price"> ¢0 </p> -->
 			</div>
 		</div>
-		<!--	<div 
-style="background: red; padding: 4px 10px; border-radius: 24px; color: white;"> Loss </div> -->
+		<div 
+style="background: red; padding: 4px 10px; border-radius: 24px; color: white;"> Loss </div>
 	</div>
 
 	<div class="odds">
