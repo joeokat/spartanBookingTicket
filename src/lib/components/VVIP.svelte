@@ -90,7 +90,7 @@ Access Spartan+ </p>
 		</div>
 	</div>
 	<div class="ads--body">
-		<a class="ads--btn" href="https://t.me/spartanplus">
+		<a class="ads--btn" href="https://paystack.com/buy/vip-odds">
 			Subscribe Now ⚡
 		</a>
 	</div>
