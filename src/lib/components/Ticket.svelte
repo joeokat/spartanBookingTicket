@@ -32,7 +32,7 @@
 			</div>
 		</div>
 		<!--	<div 
-style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"> WON 🎉 </div> -->
+style="background: red; padding: 4px 10px; border-radius: 24px; color: white;"> Loss </div> -->
 	</div>
 
 	<div class="odds">
