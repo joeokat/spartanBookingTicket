@@ -55,7 +55,7 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				DAILY SUSU <br /> <strong> SPORTY CODE:</strong>
+<strong> DAILY SUSU SPORTY CODE:</strong>
 			</p>
 			<!-- {#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
