@@ -81,17 +81,17 @@
 			<img {src} alt="display pic" />
 			<div>
 				<p class="heading"> 
-Subscribe to Spartan+ </p>
+Join Spartan+ Today</p>
 				<div class="sub--heading">
-					<p class="sponsored--ads">Monthly VIP @</p>
-					<p>¢50</p>
+					<p class="sponsored--ads">Monthly 10+ Odds /</p>
+					<p> Monthly VIP</p>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="ads--body">
 		<a class="ads--btn" href="https://paystack.com/buy/vip-odds">
-			Become a Member ⚡
+			Subscribe Now @ ¢50 ⚡
 		</a>
 	</div>
 </div>
