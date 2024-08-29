@@ -23,6 +23,7 @@
 	.heading {
 		font-size: 1.3rem;
 		font-weight: 600;
+  margin-bottom: 4px;
 	}
 	.sub--heading {
 		display: flex;
