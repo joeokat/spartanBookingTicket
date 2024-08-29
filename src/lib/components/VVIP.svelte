@@ -16,8 +16,8 @@
 		width: 100%;
 		border-radius: 20px 20px 0 0;
 		padding: 22px;
-		color: #066066;
-		background: #f5efe9;
+		background-color: #066066;
+		color: #f5efe9;
 		position: absolute;
 		left: 0;
 		top: 0;
