@@ -17,7 +17,7 @@
 		border-radius: 20px 20px 0 0;
 		padding: 22px;
 		color: #f5efe9;
-		background: #066066;
+		background: #101010;
 		position: absolute;
 		left: 0;
 		top: 0;
@@ -84,7 +84,7 @@
 		<div class="ads--content">
 			<img {src} alt="display pic" />
 			<div>
-				<p class="heading">Join Spartan+</p>
+				<p class="heading">Join Spartan+ 🏆</p>
 				<div class="sub--heading">
 					<!-- <p class="sponsored--ads"> 10+ Odds /</p> -->
 					<p>VIP Monthly Subscription</p>
@@ -94,7 +94,7 @@
 	</div>
 	<div class="ads--body">
 		<a class="ads--btn" href="https://paystack.com/buy/vip-odds">
-			Become A Member ⚡
+			Become A Member 🤝🏼
 		</a>
 	</div>
 </div>

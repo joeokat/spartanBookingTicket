@@ -31,7 +31,7 @@
 				<!-- <p class="ticket-price"> ¢0 </p> -->
 			</div>
 		</div>
-	<!--	<div 
+		<!--	<div 
 style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"> Won 🥳 </div> -->
 	</div>
 
@@ -48,24 +48,24 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>2+</p>
+			<p>2.5+</p>
 		</div>
 	</div>
 
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-<strong> DAILY SUSU SPORTY CODE:</strong>
+				<strong> SPORTY CODE</strong>
 			</p>
 			<!-- {#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value} -->
-			<h3 class="vipOdds"> DACC867 </h3>
+			<h3 class="vipOdds">DACC867</h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
-				Daily Odds Available @ 10 : 00 AM
+				Daily Odds Available From 10 : 00 AM
 			</p>
 		</div>
 	</div>
