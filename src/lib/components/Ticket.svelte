@@ -31,8 +31,8 @@
 				<!-- <p class="ticket-price"> ¢0 </p> -->
 			</div>
 		</div>
-		<!--	<div 
-style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"> Won 🥳 </div> -->
+		<div 
+style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"> Won 🥳 </div>
 	</div>
 
 	<div class="odds">
