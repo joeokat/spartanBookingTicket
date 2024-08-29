@@ -3,10 +3,10 @@
 		width: 398px;
 		border-radius: 20px;
 		padding: 22px;
-		// margin-bottom: 16px;
-		background-color: #e7f161;
 		margin-bottom: 16px;
-		background-color: #fafaf6;
+		background-color: #e7f161;
+		margin-bottom: 1rem;
+
 		display: flex;
 		flex-direction: column;
 		position: relative;
@@ -16,16 +16,16 @@
 		width: 100%;
 		border-radius: 20px 20px 0 0;
 		padding: 22px;
-		// border: 1px solid #c6c6c6;
-		background: a.color(white);
+		color: #f5efe9;
+		background: #066066;
 		position: absolute;
 		left: 0;
 		top: 0;
 	}
 	.heading {
-		font-size: 1.3rem;
+		font-size: 1.45rem;
 		font-weight: 600;
-  margin-bottom: 4px;
+		margin-bottom: 4px;
 	}
 	.sub--heading {
 		display: flex;
@@ -38,7 +38,7 @@
 
 	.ads--content {
 		display: flex;
-   justify-content: center;
+		align-content: center;
 		flex-direction: row;
 		gap: 8px;
 	}
@@ -86,15 +86,15 @@
 			<div>
 				<p class="heading">Join Spartan+</p>
 				<div class="sub--heading">
-					<!--			<p class="sponsored--ads"> 10+ Odds /</p> -->
-					<p>Monthly VIP Subscription</p>
+					<!-- <p class="sponsored--ads"> 10+ Odds /</p> -->
+					<p>VIP Monthly Subscription</p>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="ads--body">
 		<a class="ads--btn" href="https://paystack.com/buy/vip-odds">
-			Become a Member ⚡
+			Become A Member ⚡
 		</a>
 	</div>
 </div>
