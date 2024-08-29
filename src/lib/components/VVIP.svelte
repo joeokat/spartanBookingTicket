@@ -36,6 +36,7 @@
 
 	.ads--content {
 		display: flex;
+   align-items: center;
 		flex-direction: row;
 		gap: 8px;
 	}
