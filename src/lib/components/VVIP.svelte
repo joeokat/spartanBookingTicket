@@ -3,6 +3,8 @@
 		width: 398px;
 		border-radius: 20px;
 		padding: 22px;
+		// margin-bottom: 16px;
+		background-color: #e7f161;
 		margin-bottom: 16px;
 		background-color: #fafaf6;
 		display: flex;
@@ -14,8 +16,8 @@
 		width: 100%;
 		border-radius: 20px 20px 0 0;
 		padding: 22px;
-		border: 1px solid #c6c6c6;
-		background-color: #e7f161;
+		// border: 1px solid #c6c6c6;
+		background: a.color(white);
 		position: absolute;
 		left: 0;
 		top: 0;
@@ -23,18 +25,20 @@
 	.heading {
 		font-size: 1.3rem;
 		font-weight: 600;
+  margin-bottom: 4px;
 	}
 	.sub--heading {
 		display: flex;
 		flex-direction: row;
 		gap: 4px;
 	}
-	.sponsored--ads {
+	/* .sponsored--ads {
 		font-weight: 600;
-	}
+	} */
 
 	.ads--content {
 		display: flex;
+   justify-content: center;
 		flex-direction: row;
 		gap: 8px;
 	}
@@ -65,7 +69,7 @@
 			width: 100%;
 		}
 		.heading {
-			font-size: 1.15rem;
+			font-size: 1.35rem;
 			font-weight: 600;
 		}
 	}
@@ -80,17 +84,17 @@
 		<div class="ads--content">
 			<img {src} alt="display pic" />
 			<div>
-				<p class="heading">Receive 22bet and Sporty</p>
+				<p class="heading">Join Spartan+</p>
 				<div class="sub--heading">
-					<p class="sponsored--ads">VIP Odds @</p>
-					<p>¢30/mo</p>
+					<!--			<p class="sponsored--ads"> 10+ Odds /</p> -->
+					<p>Monthly VIP Subscription</p>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="ads--body">
-		<a class="ads--btn" href="https://t.me/spartanplus">
-			Subscribe to Spartan+ ⚡
+		<a class="ads--btn" href="https://paystack.com/buy/vip-odds">
+			Become a Member ⚡
 		</a>
 	</div>
 </div>

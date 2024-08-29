@@ -27,12 +27,12 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<div>
-				<div class="label">🔥 Free Hot</div>
+				<div class="label">🔥 Free VIP</div>
 				<!-- <p class="ticket-price"> ¢0 </p> -->
 			</div>
 		</div>
-		<!--	<div 
-style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"> WON 🎉 </div> -->
+	<!--	<div 
+style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"> Won 🥳 </div> -->
 	</div>
 
 	<div class="odds">
@@ -48,21 +48,21 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>3+</p>
+			<p>2+</p>
 		</div>
 	</div>
 
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				DAILY SUSU <br /> <strong> SPORTY CODE:</strong>
+<strong> DAILY SUSU SPORTY CODE:</strong>
 			</p>
 			<!-- {#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value} -->
-			<h3 class="vipOdds">B407EEA</h3>
+			<h3 class="vipOdds"> DACC867 </h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
 				Daily Odds Available @ 10 : 00 AM
