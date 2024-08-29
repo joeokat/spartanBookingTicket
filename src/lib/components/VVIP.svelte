@@ -3,7 +3,7 @@
 		width: 398px;
 		border-radius: 20px;
 		padding: 22px;
-		/* margin-bottom: 16px; */
+		// margin-bottom: 16px;
 		background-color: #e7f161;
 		display: flex;
 		flex-direction: column;
@@ -14,8 +14,8 @@
 		width: 100%;
 		border-radius: 20px 20px 0 0;
 		padding: 22px;
-		/* border: 1px solid #c6c6c6; */
-		background-color: a.color(white);
+		// border: 1px solid #c6c6c6;
+		background: a.color(white);
 		position: absolute;
 		left: 0;
 		top: 0;
