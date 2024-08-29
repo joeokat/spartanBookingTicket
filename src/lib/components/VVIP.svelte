@@ -14,7 +14,7 @@
 		width: 100%;
 		border-radius: 20px 20px 0 0;
 		padding: 22px;
-		border: 1px solid #c6c6c6;
+		/* border: 1px solid #c6c6c6; */
 		background-color: #e7f161;
 		position: absolute;
 		left: 0;
