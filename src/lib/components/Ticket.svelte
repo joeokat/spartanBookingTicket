@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<div>
-				<div class="label">🔥 Free VIP</div>
+				<div class="label">🔥 Rollover</div>
 				<!-- <p class="ticket-price"> ¢0 </p> -->
 			</div>
 		</div>
