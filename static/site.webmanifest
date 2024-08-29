@@ -3,7 +3,7 @@
 	"short_name": "Spartan+",
 	"lang": "en",
 	"appid": "/",
-	"description": "We are Experts at Sports Predictions. Bet on Your Favourite Sports, Soccer, Rugby, Tennis, MMA & MLB.",
+	"description": "We are Experts at Sports Predictions. Root for Your Favourite Team, Soccer, Rugby, Tennis, MMA & MLB.",
 	"categories": ["Sports", "Betting", "Games"],
     "start_url": ".",
 	"orientation": "portrait",
