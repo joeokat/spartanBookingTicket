@@ -81,9 +81,9 @@
 			<img {src} alt="display pic" />
 			<div>
 				<p class="heading"> 
-Join Spartan+ Today</p>
+Join Spartan+</p>
 				<div class="sub--heading">
-					<p class="sponsored--ads">Monthly 10+ Odds /</p>
+					<p class="sponsored--ads"> 10+ Odds /</p>
 					<p> Monthly VIP</p>
 				</div>
 			</div>
