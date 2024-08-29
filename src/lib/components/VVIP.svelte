@@ -84,14 +84,14 @@
 Join Spartan+ </p>
 				<div class="sub--heading">
 		<!--			<p class="sponsored--ads"> 10+ Odds /</p> -->
-					<p> Monthly VIP Membership</p>
+					<p> Monthly VIP Subscription </p>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="ads--body">
 		<a class="ads--btn" href="https://paystack.com/buy/vip-odds">
-			Subscribe Today ⚡
+			Become a Member ⚡
 		</a>
 	</div>
 </div>
