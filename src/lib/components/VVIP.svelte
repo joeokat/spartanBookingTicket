@@ -4,7 +4,7 @@
 		border-radius: 20px;
 		padding: 22px;
 		margin-bottom: 16px;
-		background-color: #e7f161;
+		background-color: #066066;
 		margin-bottom: 1rem;
 
 		display: flex;
@@ -16,7 +16,7 @@
 		width: 100%;
 		border-radius: 20px 20px 0 0;
 		padding: 22px;
-		background-color: #066066;
+		background-color: #e7f161;
 		color: #f5efe9;
 		position: absolute;
 		left: 0;
@@ -87,7 +87,7 @@
 				<p class="heading">Join Spartan+ 🏆</p>
 				<div class="sub--heading">
 					<!-- <p class="sponsored--ads"> 10+ Odds /</p> -->
-					<p>VIP Monthly Subscription</p>
+					<p>Weekly VIP Subscription</p>
 				</div>
 			</div>
 		</div>
