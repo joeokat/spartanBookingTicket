@@ -3,7 +3,6 @@
 		width: 398px;
 		border-radius: 20px;
 		padding: 22px;
-		margin-bottom: 16px;
 		background-color: #066066;
 		margin-bottom: 1rem;
 
@@ -17,7 +16,7 @@
 		border-radius: 20px 20px 0 0;
 		padding: 22px;
 		background-color: #e7f161;
-		color: #f5efe9;
+		color: #121212;
 		position: absolute;
 		left: 0;
 		top: 0;
