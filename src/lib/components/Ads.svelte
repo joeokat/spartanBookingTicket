@@ -4,7 +4,8 @@
 		border-radius: 20px;
 		padding: 22px;
 		margin-bottom: 1rem;
-		background-color: #fafaf6;
+		color: #fafaf6;
+		background-color: #066066;
 		display: flex;
 		gap: 1rem;
 		flex-direction: column;
@@ -37,10 +38,10 @@
 		border: 0;
 		border-radius: 2.6rem;
 		font-size: 1rem;
-		font-weight: 500;
+		font-weight: 600;
 		cursor: pointer;
-		color: #e7f161;
-		background-color: #171717;
+		color: #066066;
+		background-color: #fafaf6;
 	}
 
 	@media only screen and (max-width: 600px) {
@@ -62,17 +63,19 @@
 	<div class="ads--content">
 		<img {src} alt="display pic" />
 		<div>
-			<p class="heading">Promote Your Business</p>
+			<p class="heading">Fleet Labs Ghana Ltd.</p>
 			<div class="sub--heading">
-				<p class="sponsored--ads">Spartan Ads •</p>
-				<p>¢250/mo</p>
+				<p class="sponsored--ads">Sponsored Ad •</p>
+				<p>🌍</p>
 			</div>
 		</div>
 	</div>
 
+	<p>We Design and Develop Mobile & Web Applications at affordable prices.</p>
+
 	<div class="ads--body">
-		<a class="ads--btn" href="http://x.com/SpartanOdx">
-			⚡ Get a Mobile Application
+		<a class="ads--btn" href="http://wa.me/233509994874">
+			⚡ Get Free Estimate
 		</a>
 	</div>
 </div>
