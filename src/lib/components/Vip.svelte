@@ -60,9 +60,9 @@
 	<div class="ads--content">
 		<img {src} alt="display pic" />
 		<div>
-			<p class="heading">Join Spartan+ Channel</p>
+			<p class="heading">Daily VIP Odds</p>
 			<div class="sub--heading">
-				<p>Falaaa Daily VIP Tickets</p>
+				<p>Join Spartan+ on Telegram</p>
 			</div>
 		</div>
 	</div>
