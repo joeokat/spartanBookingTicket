@@ -62,7 +62,7 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 			{/if}
 
 			{#if subscribed_value} -->
-			<h3 class="vipOdds">D3C9C72</h3>
+			<h3 class="vipOdds">22EF18</h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
 				Daily Odds Available From 10 : 00 AM
