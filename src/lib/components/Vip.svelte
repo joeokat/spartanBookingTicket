@@ -67,7 +67,7 @@
 		</div>
 	</div>
 
-	<a class="ads--btn" href="http://paystack.com/pay/spartanplus">
+	<a class="ads--btn" href="https://paystack.com/buy/vip-odds">
 		Subscribe Weekly
 	</a>
 </div>

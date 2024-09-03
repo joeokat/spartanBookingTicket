@@ -56,7 +56,7 @@
 </style>
 
 <script>
-	let src = '/displayPic.png'
+	let src = '/companyAvatar.png'
 </script>
 
 <div class="ads--card">
