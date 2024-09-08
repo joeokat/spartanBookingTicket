@@ -27,7 +27,7 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<div>
-				<div class="label">🔥 Rollover</div>
+				<div class="label">🔥 Daily Susu</div>
 				<!-- <p class="ticket-price"> ¢0 </p> -->
 			</div>
 		</div>
@@ -43,26 +43,26 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 
 		<div class="number-ofBet">
 			<small>Outcome</small>
-			<p>4</p>
+			<p>4+</p>
 		</div>
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>2.5+</p>
+			<p>1.5+</p>
 		</div>
 	</div>
 
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				<strong> SPORTY CODE</strong>
+				<strong> 22BET CODE</strong>
 			</p>
 			<!-- {#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
 			{#if subscribed_value} -->
-			<h3 class="vipOdds">EAB9E2</h3>
+			<h3 class="vipOdds">FEHLej</h3>
 			<!-- {/if} -->
 			<p style="color: #919191; margin:1rem; text-align: center">
 				Daily Odds Available From 10 : 00 AM
