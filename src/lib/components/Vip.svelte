@@ -60,7 +60,7 @@
 	<div class="ads--content">
 		<img {src} alt="display pic" />
 		<div>
-			<p class="heading">Daily VIP Odds</p>
+			<p class="heading">Weekly VIP Odds</p>
 			<div class="sub--heading">
 				<p>Join Spartan+ on Telegram</p>
 			</div>
@@ -68,6 +68,6 @@
 	</div>
 
 	<a class="ads--btn" href="https://paystack.com/buy/vip-odds">
-		Subscribe Weekly
+		Subscribe Now
 	</a>
 </div>
