@@ -48,7 +48,7 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 
 		<div class="total-odds">
 			<small> Total Odds</small>
-			<p>1.5+</p>
+			<p>6</p>
 		</div>
 	</div>
 
@@ -65,7 +65,7 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 			<h3 class="vipOdds">######</h3>
 			 {/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
-				VIP Odds Available 10 : 00 AM Daily 
+				Monthly VIP Odds Available 
 			</p>
 		</div>
 	</div>
