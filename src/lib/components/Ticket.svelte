@@ -57,15 +57,15 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 			<p style="margin:1rem; text-align: center">
 				<strong> 22BET CODE</strong>
 			</p>
-			<!-- {#if !subscribed_value}
+			 {#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
-			{#if subscribed_value} -->
-			<h3 class="vipOdds">FEHLej</h3>
-			<!-- {/if} -->
+			{#if subscribed_value} 
+			<h3 class="vipOdds">######</h3>
+			 {/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
-				Daily Odds Available From 10 : 00 AM
+				VIP Odds Available 10 : 00 AM Daily 
 			</p>
 		</div>
 	</div>
