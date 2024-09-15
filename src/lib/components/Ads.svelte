@@ -71,7 +71,7 @@
 		</div>
 	</div>
 
-	<p>We Design[UI/UX] and Develop Mobile & Web Applications for small businesses and enterprise companies.</p>
+	<p>We Design [UI/UX] and Develop Mobile & Web Applications for small and medium size businesses</p>
 
 	<div class="ads--body">
 		<a class="ads--btn" href="http://wa.me/233509994874">
