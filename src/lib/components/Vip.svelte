@@ -68,6 +68,6 @@
 	</div>
 
 	<a class="ads--btn" href="https://paystack.com/buy/vip-odds">
-		Subscribe to Kaboom
+		Subscribe to Kabooom 💥
 	</a>
 </div>
