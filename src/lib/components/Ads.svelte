@@ -63,7 +63,7 @@
 	<div class="ads--content">
 	<!--	<img {src} alt="display pic" /> -->
 		<div>
-			<p class="heading">Fleet Labs Ghana LLC.</p>
+			<p class="heading"> Fleet Labs Ghana </p>
 			<div class="sub--heading">
 				<p class="sponsored--ads">@fleetlabsgh •</p>
 				<p> Sponsored Ad </p>
