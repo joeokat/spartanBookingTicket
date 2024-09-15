@@ -61,21 +61,21 @@
 
 <div class="ads--card">
 	<div class="ads--content">
-		<img {src} alt="display pic" />
+	<!--	<img {src} alt="display pic" /> -->
 		<div>
-			<p class="heading">Fleet Labs Ghana Ltd.</p>
+			<p class="heading">Fleet Labs Ghana LLC.</p>
 			<div class="sub--heading">
 				<p class="sponsored--ads">Sponsored Ad •</p>
-				<p>🌍</p>
+				<p> 🌍 </p>
 			</div>
 		</div>
 	</div>
 
-	<p>We Design and Develop Mobile & Web Applications at affordable prices.</p>
+	<p>We Design[UI/UX] and Develop Mobile & Web Applications for small businesses and enterprise companies.</p>
 
 	<div class="ads--body">
 		<a class="ads--btn" href="http://wa.me/233509994874">
-			⚡ Get Free Estimate
+			⚡ Get Free Quote
 		</a>
 	</div>
 </div>
