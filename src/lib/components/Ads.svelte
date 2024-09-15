@@ -65,13 +65,13 @@
 		<div>
 			<p class="heading">Fleet Labs Ghana LLC.</p>
 			<div class="sub--heading">
-				<p class="sponsored--ads">Sponsored Ad •</p>
-				<p> 🌍 </p>
+				<p class="sponsored--ads">@fleetlabsgh •</p>
+				<p> Sponsored Ad </p>
 			</div>
 		</div>
 	</div>
 
-	<p>We Design [UI/UX] and Develop Mobile & Web Applications for small and medium size businesses</p>
+	<p>We Design UX and Develop Mobile & Web Applications for small and medium business</p>
 
 	<div class="ads--body">
 		<a class="ads--btn" href="http://wa.me/233509994874">
