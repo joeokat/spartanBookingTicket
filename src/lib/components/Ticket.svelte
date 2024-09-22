@@ -27,12 +27,15 @@
 	<div class="hot-ticket">
 		<div class="ticket-price">
 			<div>
-				<div class="label">🔥 Daily VIP</div>
+				<div class="label">🔥 Daily Susu</div>
 				<!-- <p class="ticket-price"> ¢0 </p> -->
 			</div>
 		</div>
-	<div 
-style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"> Won 🎉 </div>
+		<div
+			style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
+		>
+			Won 🎉
+		</div>
 	</div>
 
 	<div class="odds">
@@ -55,17 +58,17 @@ style="background: green; padding: 4px 10px; border-radius: 24px; color: white;"
 	<div class="barcode">
 		<div class="winning-ticket">
 			<p style="margin:1rem; text-align: center">
-				<strong> WEEKEND VIP </strong>
+				<strong> SPORTY VIP </strong>
 			</p>
-			 {#if !subscribed_value}
+			{#if !subscribed_value}
 				<img {src} alt="" on:click={handleModal} />
 			{/if}
 
-			{#if subscribed_value} 
-			<h3 class="vipOdds">######</h3>
-			 {/if}
+			{#if subscribed_value}
+				<h3 class="vipOdds">######</h3>
+			{/if}
 			<p style="color: #919191; margin:1rem; text-align: center">
-				Weekly/Monthly VIP Odds Available 
+				Monthly VIP Odds Available
 			</p>
 		</div>
 	</div>

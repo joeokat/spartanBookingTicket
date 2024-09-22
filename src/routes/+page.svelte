@@ -4,7 +4,7 @@
 	import Terms from '$lib/components/Terms.svelte'
 	import Ticket from '$lib/components/Ticket.svelte'
 	import Vip from '$lib/components/Vip.svelte'
-	import Ads from '$lib/components/Ads.svelte'
+	// import Ads from '$lib/components/Ads.svelte'
 	import { subscribed } from '../stores.js'
 	import Bet22 from '$lib/components/Bet22.svelte'
 
@@ -50,7 +50,7 @@
 		<Ticket handleModal={showModal} />
 		<!--	<SpartanPlus handleModal={showModal} /> -->
 		<Vip />
-		<Ads />
+		<!-- <Ads /> -->
 	</div>
 	<Terms />
 </main>
